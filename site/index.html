@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What's absent</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta property="og:title" content="What's absent">
+<meta property="og:description" content="Characters in Unicode 18.0 that no Noto font covers yet, block by block, with links to the notofonts repositories.">
+<meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141413" media="(prefers-color-scheme: dark)">
+<meta name="description" content="Characters in Unicode 18.0 that no Noto font covers yet, block by block, with links to the notofonts repositories. An overview for Noto contributors.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=88f29466">
+<link rel="stylesheet" href="other-fonts.css?v=cbf1c4f3">
+</head>
+<body>
+<aside class="nav" id="nav">
+  <div class="nav-head">
+    <a class="brand" href="#top">What's absent</a>
+    <input id="q" type="search" placeholder="Filter blocks or U+code" autocomplete="off" spellcheck="false">
+  </div>
+  <ol class="blocks" id="blocklist"></ol>
+</aside>
+
+<div class="mobile-bar">
+  <a class="brand" href="#top">What's absent</a>
+  <select id="jump" aria-label="Jump to block"></select>
+</div>
+
+<main id="top">
+  <header class="intro">
+    <h1>What's absent</h1>
+    <p class="lede">Characters encoded in <b>Unicode <span data-k="unicode"></span></b> that no Noto font covers yet. Each row shows the GNU Unifont reference glyph, how Noto renders it today with a link to the notofonts repository where it belongs, and another open font that already draws it.</p>
+    <dl class="stats">
+      <div><dt>Missing characters</dt><dd data-k="total"></dd></div>
+      <div><dt>Blocks with gaps</dt><dd data-k="blocks"></dd></div>
+      <div><dt>New in <span data-k="unicode-short"></span></dt><dd data-k="new"></dd></div>
+      <div><dt>Noto families scanned</dt><dd data-k="families"></dd></div>
+    </dl>
+    <div class="filters">
+      <label><input type="checkbox" id="f-new"> Only new in <span data-k="unicode-short"></span></label>
+      <label><input type="checkbox" id="f-ign"> Hide variation selectors &amp; tags</label>
+    </div>
+    <div class="filters groups">
+      <span class="gl">Large blocks, off by default:</span>
+      <label><input type="checkbox" id="g-cjk"> CJK <span class="gc" data-k="g-cjk"></span></label>
+      <label><input type="checkbox" id="g-egyptian"> Egyptian hieroglyphs <span class="gc" data-k="g-egyptian"></span></label>
+      <label><input type="checkbox" id="g-seal"> Seal <span class="gc" data-k="g-seal"></span></label>
+      <label><input type="checkbox" id="g-jurchen"> Jurchen <span class="gc" data-k="g-jurchen"></span></label>
+    </div>
+    <p class="legend">GNU Unifont <span data-k="unifont"></span> · Noto loads live from notofonts, a box means not covered · Other open fonts: <span data-k="others"></span> · Data built <span data-k="built"></span></p>
+  </header>
+  <div id="content"></div>
+  <footer class="foot">
+    Coverage = union of cmaps of every Noto family in <a href="https://notofonts.github.io/">notofonts</a>, Noto CJK and Noto Color Emoji. Control, surrogate and private-use code points are excluded. Other open fonts (Plangothic, Sealie, UniHieroglyphica, Alari Xuwasun Jurchen) are downloaded from their original sources at each build. All fonts on this page are under the SIL Open Font License 1.1; see <a href="LICENSES/">fonts and licences</a>.
+  </footer>
+</main>
+<script src="app.js?v=44505c79"></script>
+</body>
+</html>
