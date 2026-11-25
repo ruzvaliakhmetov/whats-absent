@@ -36,7 +36,7 @@ function charsOf(b) {
         c,
         n: b.names[c] || (b.prefix + hex(c)),
         g: o.g ?? b.d.g, s: o.s ?? b.d.s, a: o.a ?? b.d.a,
-        r: "r" in o ? o.r : b.d.r, u: o.u ?? b.d.u, o: "o" in o ? o.o : b.d.o,
+        r: "r" in o ? o.r : b.d.r, u: o.u ?? b.d.u, o: "o" in o ? o.o : b.d.o, f: o.f ?? b.d.f ?? 0,
       });
     }
   }
@@ -61,7 +61,7 @@ function otherHTML(ch, txt) {
   const tip = `${f.name} ${f.version || ""}${f.release ? " · " + f.release : ""}${f.released ? " (" + f.released + ")" : ""}`;
   // A combining mark sits on a base from the same font: its dotted circle, or its own space.
   const base = isMark(ch) && f.base ? String.fromCodePoint(parseInt(f.base, 16)) : "";
-  return `<div class="pv"><span class="cap">Other fonts</span><div class="g mk" style="font-family:'O-${ch.o}','WA Tofu'">${base}${txt}</div><a href="${f.source || f.home}" target="_blank" rel="noopener" title="${tip}">${f.name} ↗</a></div>`;
+  return `<div class="pv"><span class="cap">Other fonts</span><div class="g mk" style="font-family:'O-${ch.o}-${ch.f}-${(ch.c >> 10).toString(16)}','WA Tofu'">${base}${txt}</div><a href="${f.source || f.home}" target="_blank" rel="noopener" title="${tip}">${f.name} ↗</a></div>`;
 }
 
 function cellHTML(ch) {
@@ -308,4 +308,4 @@ window.addEventListener("resize", () => {
   }), 150);
 });
 
-fetch("data.json?v=d93942da").then((r) => r.json()).then((d) => { DATA = d; build(); });
+fetch("data.json?v=3f8837be").then((r) => r.json()).then((d) => { DATA = d; build(); });

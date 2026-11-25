@@ -324,6 +324,11 @@ def main():
         return next(((k, p) for k, p, cps_ in other_files
                      if c in cps_ and (k not in OTHER_SCOPE or OTHER_SCOPE[k].search(block))), (None, None))
 
+    def other_index(c, block):
+        # Which of the font's files draws c (Plangothic has P1 and P2): picks the per-slice family.
+        k, p = other_file_for(c, block)
+        return [pp for kk, pp, _ in other_files if kk == k].index(p) if p else 0
+
     block_of = {}
 
     out_blocks, missing_all, repos_used = [], [], set()
@@ -353,11 +358,11 @@ def main():
             if repo:
                 repos_used.add(repo)
             recs.append({"c": c, "g": gc, "s": s_, "a": age_of.get(c, ""),
-                         "r": repo, "u": int(c in uni_cov), "o": other_file_for(c, name)[0],
+                         "r": repo, "u": int(c in uni_cov), "o": other_file_for(c, name)[0], "f": other_index(c, name),
                          "n": nm if nm is not None else algorithmic_name(c, label)})
             missing_all.append(c)
             block_of[c] = name
-        defaults = {k: Counter(r[k] for r in recs).most_common(1)[0][0] for k in "gsaruo"}
+        defaults = {k: Counter(r[k] for r in recs).most_common(1)[0][0] for k in "gsaruof"}
         # Algorithmic names share one prefix per block: store it, not every name.
         prefix = None
         alg = [r for r in recs if ud[r["c"]][0] is None]
@@ -372,7 +377,7 @@ def main():
                 runs.append([c, c])
             if not (prefix and r["n"] == f"{prefix}{c:X}"):
                 names[c] = r["n"]
-            o = {k: r[k] for k in "gsaruo" if r[k] != defaults[k]}
+            o = {k: r[k] for k in "gsaruof" if r[k] != defaults[k]}
             if o:
                 ov[c] = o
         if defaults["s"] not in ("Common", "Inherited", "Unknown") and defaults["r"] is None:
@@ -460,7 +465,10 @@ def main():
             (odir / fname).write_bytes(_subset_bytes(base, cps_b | extra, flavor="woff2"))
             rng = ",".join(f"U+{a:X}" if a == b else f"U+{a:X}-{b:X}" for a, b in _ranges(cps_b | extra))
             ver = __import__("hashlib").sha1((odir / fname).read_bytes()).hexdigest()[:8]
-            css.append(f"@font-face{{font-family:'O-{key}';font-display:block;"
+            # One family per slice: a combining mark and the base before it must come from the same
+            # file, and slices of one font share the base, so they cannot share a family name.
+            fi = [p for k, p, _ in other_files if k == key].index(path)
+            css.append(f"@font-face{{font-family:'O-{key}-{fi}-{bk:x}';font-display:block;"
                        f"src:url(fonts/other/{fname}?v={ver}) format('woff2');unicode-range:{rng}}}")
         print("other font", key, path.name, len(want), "chars,", len(buckets), "slices")
     (SITE / "other-fonts.css").write_text("\n".join(css) + "\n")

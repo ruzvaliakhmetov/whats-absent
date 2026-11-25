@@ -60,7 +60,10 @@ python3 -m http.server 8790 --directory site
 - Combining marks are shown on a base from the same font, never from another one: GNU Unifont uses
   its own U+25CC (both Unifont files are merged into one subset so plane-1 marks can reach it);
   Plangothic, UniHieroglyphica and Alari have no U+25CC, so their own blank space is the base
-  (Plangothic's no-break space draws a visible label and is not used). The Noto column shows the
+  (Plangothic's no-break space draws a visible label and is not used). Every slice carries that base,
+  so each slice has its own family name (`O-<font>-<file>-<1024-block>`): under one shared family the
+  browser could take the base from one slice and the mark from another, and Safari then draws a box.
+  The Noto column shows the
   mark alone: it is missing there, and once Noto has it the character leaves the list.
 - `build.py` is reproducible: same input, byte-identical `site/` (fixed font timestamps, fixed
   `PYTHONHASHSEED`), so the weekly workflow commits only real changes.
