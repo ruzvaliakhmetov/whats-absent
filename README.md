@@ -37,7 +37,8 @@ python3 -m http.server 8790 --directory site
 ## Rules
 
 - Coverage = union of the cmaps of all Noto families (Sans, Serif and others).
-- Excluded: control (Cc), surrogate (Cs) and private-use (Co) code points.
+- Excluded: control (Cc), surrogate (Cs) and private-use (Co) code points, and the Variation
+  Selectors, Variation Selectors Supplement and Tags blocks (`SKIP_BLOCKS` in `scripts/build.py`).
 - Repo per character: by Unicode Script (e.g. `Garay` → `notofonts/garay`);
   Common/Inherited characters go to whichever repo already covers most of the block.
   Scripts without a notofonts repo are marked "no repo yet".

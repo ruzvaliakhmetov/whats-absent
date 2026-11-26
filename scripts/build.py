@@ -22,6 +22,8 @@ UNICODE_VERSION = "18.0.0"
 UNIFONT = ["unifont-18.0.01.otf", "unifont_upper-18.0.01.otf"]
 UNIFONT_VERSION = "18.0.01"
 SKIP_GC = {"Cc", "Cs", "Co"}
+# Invisible format characters: no glyph to draw, nothing for a font to add.
+SKIP_BLOCKS = {"Variation Selectors", "Variation Selectors Supplement", "Tags"}
 # Large ideographic/hieroglyphic blocks: on the page but hidden until the viewer turns them on.
 OPT_IN_GROUPS = [
     ("cjk", re.compile(r"^CJK ")),
@@ -333,6 +335,8 @@ def main():
 
     out_blocks, missing_all, repos_used = [], [], set()
     for a, b, name in blocks:
+        if name in SKIP_BLOCKS:
+            continue
         cps = [c for c in range(a, b + 1) if c in ud and ud[c][1] not in SKIP_GC]
         if not cps:
             continue

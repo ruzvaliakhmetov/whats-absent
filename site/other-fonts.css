@@ -97,7 +97,7 @@
 @font-face{font-family:'O-plangothic-1-29';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-00a400.woff2?v=f8a036bc) format('woff2');unicode-range:U+20,U+A7CB-A7CF,U+A7D2,U+A7D4,U+A7DA-A7DD,U+A7E2,U+A7F1}
 @font-face{font-family:'O-plangothic-1-2a';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-00a800.woff2?v=c68fc7b6) format('woff2');unicode-range:U+20,U+AB6C-AB6D}
 @font-face{font-family:'O-plangothic-1-3e';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-00f800.woff2?v=cd1613a7) format('woff2');unicode-range:U+20,U+FBC3-FBD2}
-@font-face{font-family:'O-plangothic-1-3f';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-00fc00.woff2?v=0bb0fd75) format('woff2');unicode-range:U+20,U+FD90-FD91,U+FDC8-FDCE,U+FE01-FE0F}
+@font-face{font-family:'O-plangothic-1-3f';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-00fc00.woff2?v=a586d284) format('woff2');unicode-range:U+20,U+FD90-FD91,U+FDC8-FDCE}
 @font-face{font-family:'O-plangothic-1-41';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-010400.woff2?v=d9192459) format('woff2');unicode-range:U+20,U+107BB-107BF}
 @font-face{font-family:'O-plangothic-1-42';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-010800.woff2?v=60f78df0) format('woff2');unicode-range:U+20,U+10940-10959}
 @font-face{font-family:'O-plangothic-1-43';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-010c00.woff2?v=f9a276a3) format('woff2');unicode-range:U+20,U+10D59,U+10D6A-10D6F,U+10D8E-10D8F,U+10EC2-10EC7,U+10EC9-10EEE,U+10EF0-10EFC}
@@ -135,4 +135,3 @@
 @font-face{font-family:'O-plangothic-1-cb';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-032c00.woff2?v=23a53477) format('woff2');unicode-range:U+20,U+32C00-32FFF}
 @font-face{font-family:'O-plangothic-1-cc';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-033000.woff2?v=3c4dd499) format('woff2');unicode-range:U+20,U+33000-333FF}
 @font-face{font-family:'O-plangothic-1-cd';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-033400.woff2?v=6415cadc) format('woff2');unicode-range:U+20,U+33400-33479}
-@font-face{font-family:'O-plangothic-1-380';font-display:block;src:url(fonts/other/plangothic-plangothicp2-regular-0e0000.woff2?v=f2368367) format('woff2');unicode-range:U+20,U+E0001,U+E0020-E002F,U+E003A-E0060,U+E007B-E007E,U+E0100-E01EF}

@@ -308,4 +308,4 @@ window.addEventListener("resize", () => {
   }), 150);
 });
 
-fetch("data.json?v=3f8837be").then((r) => r.json()).then((d) => { DATA = d; build(); });
+fetch("data.json?v=1701d4c2").then((r) => r.json()).then((d) => { DATA = d; build(); });
