@@ -13,6 +13,8 @@ the notofonts repository where the character belongs.
 - `scripts/build.py` — combines the UCD files, Unifont and the Noto cmaps into
   `site/data.json`, subsets Unifont to the missing characters and builds a
   "tofu" fallback font.
+- `scripts/fetch_proposals.py` — finds the proposal documents behind each character in the UTC
+  minutes and writes `data/proposals.json` (committed; run by hand, see below).
 - `site/` — the static page (`index.html`, `style.css`, `app.js`). Deploy this folder as is.
 
 ## Rebuild
@@ -68,6 +70,22 @@ python3 -m http.server 8790 --directory site
   mark alone: it is missing there, and once Noto has it the character leaves the list.
 - `build.py` is reproducible: same input, byte-identical `site/` (fixed font timestamps, fixed
   `PYTHONHASHSEED`), so the weekly workflow commits only real changes.
+- Unicode links. Each block header links the block's code chart and, per Unicode version that
+  added characters to it, the delta chart (`charts/PDF/Unicode-17.0/U170-1E6C0.pdf`; there is none
+  for 1.1). Under each character are the documents that proposed it, linked through Unicode's
+  search by number (`cgi-bin/GetMatchingDocs.pl?L2/22-048`, `GetMatchingWG2Docs.pl?N5344`), with
+  the document title from the L2 register as a tooltip.
+- Proposals come from `scripts/fetch_proposals.py`. The UCD does not record them, so the script reads
+  the minutes of every UTC meeting since 2005 (found through the yearly L2 registers) and keeps the
+  consensus items that accept or provisionally assign characters: their code points and the documents
+  they cite. Rules: the committee's own papers ("Recommendations to UTC … on Script Proposals",
+  "CJK & Unihan Group Recommendations") are dropped unless an item cites nothing else (CJK, whose
+  proposals are IRG papers); a decision counts only if taken at most ten years before the character's
+  version came out; an item that gives only a block's range counts for its characters unless another
+  item names the character's own code point; sentences that only create blocks are ignored.
+  Coverage is partial: characters accepted before 2005 or in items without code points (most CJK
+  Extension B, D and G, Gurung Khema, Syriac Supplement, parts of Legacy Computing) show no proposal.
+  Run it when a new Unicode version comes out, then `build.py`; downloads are cached in `data/cache/minutes/`.
 - The Noto column loads the repo's font live from notofonts.github.io (via jsDelivr),
   so a character added upstream shows up before the next rebuild. CJK and emoji fonts
   are too large to load and always show the box.

@@ -1,0 +1,7626 @@
+{
+"items": {
+"102-C10": {
+"docs": [
+"L2/05-029"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05026.htm#102-C10"
+},
+"103-C10": {
+"docs": [
+"L2/05-008",
+"L2/05-090",
+"L2/05-091"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05108.htm#103-C10"
+},
+"103-C15": {
+"docs": [
+"L2/05-098"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05108.htm#103-C15"
+},
+"104-C17": {
+"docs": [
+"L2/05-175"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05180.htm#104-C17"
+},
+"104-C19": {
+"docs": [
+"L2/05-164",
+"L2/05-173",
+"L2/05-165"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05180.htm#104-C19"
+},
+"104-C24": {
+"docs": [
+"L2/05-158"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05180.htm#104-C24"
+},
+"105-C21": {
+"docs": [
+"L2/05-309R"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C21"
+},
+"105-C22": {
+"docs": [
+"L2/05-346"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C22"
+},
+"105-C23": {
+"docs": [
+"L2/00-293",
+"L2/05-300"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C23"
+},
+"105-C25": {
+"docs": [
+"L2/05-258"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C25"
+},
+"105-C27": {
+"docs": [
+"L2/05-344"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C27"
+},
+"105-C30": {
+"docs": [
+"L2/05-270"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C30"
+},
+"105-C31": {
+"docs": [
+"L2/05-243"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C31"
+},
+"105-C32": {
+"docs": [
+"L2/05-222"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C32"
+},
+"105-C34": {
+"docs": [
+"L2/04-364",
+"L2/05-059"
+],
+"minutes": "https://www.unicode.org/L2/L2005/05279.htm#105-C34"
+},
+"106-C10": {
+"docs": [
+"L2/06-040"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06008.htm#106-C10"
+},
+"106-C11": {
+"docs": [
+"L2/06-037"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06008.htm#106-C11"
+},
+"106-C12": {
+"docs": [
+"L2/06-036"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06008.htm#106-C12"
+},
+"106-C13": {
+"docs": [
+"L2/06-054"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06008.htm#106-C13"
+},
+"106-C14": {
+"docs": [
+"L2/06-044"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06008.htm#106-C14"
+},
+"106-C15": {
+"docs": [
+"L2/06-013"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06008.htm#106-C15"
+},
+"107-C27": {
+"docs": [
+"L2/06-137"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C27"
+},
+"107-C28": {
+"docs": [
+"L2/06-073R",
+"L2/06-004"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C28"
+},
+"107-C33": {
+"docs": [
+"L2/06-002"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C33"
+},
+"107-C34": {
+"docs": [
+"L2/06-187"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C34"
+},
+"107-C35": {
+"docs": [
+"L2/06-147",
+"L2/06-187"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C35"
+},
+"107-C36": {
+"docs": [
+"L2/06-027"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C36"
+},
+"107-C40": {
+"docs": [
+"L2/06-149"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C40"
+},
+"107-C41": {
+"docs": [
+"L2/06-125"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C41"
+},
+"107-C42": {
+"docs": [
+"L2/06-171"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C42"
+},
+"107-C43": {
+"docs": [
+"L2/06-184"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C43"
+},
+"107-C44": {
+"docs": [
+"L2/06-121"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C44"
+},
+"107-C45": {
+"docs": [
+"L2/06-187"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C45"
+},
+"107-C46": {
+"docs": [
+"L2/06-027"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C46"
+},
+"107-C47": {
+"docs": [
+"L2/06-212"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C47"
+},
+"107-C48": {
+"docs": [
+"L2/06-120R"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C48"
+},
+"107-C50": {
+"docs": [
+"L2/06-139"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C50"
+},
+"107-C51": {
+"docs": [
+"L2/06-095"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C51"
+},
+"107-C52": {
+"docs": [
+"L2/06-207"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06108.htm#107-C52"
+},
+"108-C14": {
+"docs": [
+"L2/06-234"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06231.htm#108-C14"
+},
+"108-C15": {
+"docs": [
+"L2/06-244"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06231.htm#108-C15"
+},
+"108-C16": {
+"docs": [
+"L2/06-249"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06231.htm#108-C16"
+},
+"108-C17": {
+"docs": [
+"L2/06-257"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06231.htm#108-C17"
+},
+"108-C20": {
+"docs": [
+"L2/06-250"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06231.htm#108-C20"
+},
+"108-C21": {
+"docs": [
+"L2/06-266"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06231.htm#108-C21"
+},
+"109-C2": {
+"docs": [
+"L2/06-351"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06324.htm#109-C2"
+},
+"109-C24": {
+"docs": [
+"L2/06-338"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06324.htm#109-C24"
+},
+"109-C25": {
+"docs": [
+"L2/06-245"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06324.htm#109-C25"
+},
+"109-C5": {
+"docs": [
+"L2/06-266",
+"L2/06-351"
+],
+"minutes": "https://www.unicode.org/L2/L2006/06324.htm#109-C5"
+},
+"110-C30": {
+"docs": [
+"L2/07-006"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C30"
+},
+"110-C37": {
+"docs": [
+"L2/07-003"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C37"
+},
+"110-C39": {
+"docs": [
+"L2/07-011R"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C39"
+},
+"110-C40": {
+"docs": [
+"L2/07-004"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C40"
+},
+"110-C41": {
+"docs": [
+"L2/07-004"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C41"
+},
+"110-C42": {
+"docs": [
+"L2/07-067"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C42"
+},
+"110-C43": {
+"docs": [
+"L2/07-027"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07015.htm#110-C43"
+},
+"112-C17": {
+"docs": [
+"L2/07-197"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07225.htm#112-C17"
+},
+"112-C18": {
+"docs": [
+"L2/07-206"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07225.htm#112-C18"
+},
+"112-C19": {
+"docs": [
+"L2/07-207"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07225.htm#112-C19"
+},
+"112-C20": {
+"docs": [
+"L2/07-207"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07225.htm#112-C20"
+},
+"112-C23": {
+"docs": [
+"L2/07-258",
+"L2/07-260"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07225.htm#112-C23"
+},
+"112-C7": {
+"docs": [
+"L2/07-192"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07225.htm#112-C7"
+},
+"113-C1": {
+"docs": [
+"L2/07-334"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07345.htm#113-C1"
+},
+"113-C15": {
+"docs": [
+"L2/07-387"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07345.htm#113-C15"
+},
+"113-C19": {
+"docs": [
+"L2/07-343"
+],
+"minutes": "https://www.unicode.org/L2/L2007/07345.htm#113-C19"
+},
+"114-C29": {
+"docs": [
+"L2/08-110"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C29"
+},
+"114-C34": {
+"docs": [
+"L2/07-332"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C34"
+},
+"114-C35": {
+"docs": [
+"L2/08-044"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C35"
+},
+"114-C36": {
+"docs": [
+"L2/08-015"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C36"
+},
+"114-C37": {
+"docs": [
+"L2/08-024"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C37"
+},
+"114-C38": {
+"docs": [
+"L2/08-030"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C38"
+},
+"114-C39": {
+"docs": [
+"L2/08-019"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C39"
+},
+"114-C40": {
+"docs": [
+"L2/07-418"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C40"
+},
+"114-C41": {
+"docs": [
+"L2/07-235",
+"L2/06-291"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08003.htm#114-C41"
+},
+"115-C20": {
+"docs": [
+"L2/08-205"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C20"
+},
+"115-C21": {
+"docs": [
+"L2/08-227"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C21"
+},
+"115-C28": {
+"docs": [
+"L2/08-205"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C28"
+},
+"115-C3": {
+"docs": [
+"L2/08-198R",
+"L2/08-198"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C3"
+},
+"115-C31": {
+"docs": [
+"L2/08-116"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C31"
+},
+"115-C32": {
+"docs": [
+"L2/08-071"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C32"
+},
+"115-C7": {
+"docs": [
+"L2/08-181",
+"L2/08-179"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C7"
+},
+"115-C8": {
+"docs": [
+"L2/07-283"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08161.htm#115-C8"
+},
+"116-C17": {
+"docs": [
+"L2/08-317",
+"L2/08-273R"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08253.htm#116-C17"
+},
+"116-C21": {
+"docs": [
+"L2/08-277R"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08253.htm#116-C21"
+},
+"116-C22": {
+"docs": [
+"L2/08-270R"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08253.htm#116-C22"
+},
+"117-C19": {
+"docs": [
+"L2/08-397"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08361.htm#117-C19"
+},
+"117-C20": {
+"docs": [
+"L2/08-372",
+"L2/08-397"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08361.htm#117-C20"
+},
+"117-C21": {
+"docs": [
+"L2/08-397"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08361.htm#117-C21"
+},
+"117-C22": {
+"docs": [
+"L2/08-397"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08361.htm#117-C22"
+},
+"117-C29": {
+"docs": [
+"L2/08-404"
+],
+"minutes": "https://www.unicode.org/L2/L2008/08361.htm#117-C29"
+},
+"132-C10": {
+"docs": [
+"L2/12-270"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12239.htm#132-C10"
+},
+"132-C2": {
+"docs": [
+"L2/12-242"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12239.htm#132-C2"
+},
+"132-C3": {
+"docs": [
+"L2/12-266"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12239.htm#132-C3"
+},
+"132-C4": {
+"docs": [
+"L2/12-212"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12239.htm#132-C4"
+},
+"132-C53": {
+"docs": [
+"L2/12-234R"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12239.htm#132-C53"
+},
+"133-C13": {
+"docs": [
+"L2/12-123R"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12343.htm#133-C13"
+},
+"133-C16": {
+"docs": [
+"L2/12-309R"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12343.htm#133-C16"
+},
+"133-C20": {
+"docs": [
+"L2/12-316",
+"L2/12-344"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12343.htm#133-C20"
+},
+"133-C34": {
+"docs": [
+"L2/12-321"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12343.htm#133-C34"
+},
+"133-C36": {
+"docs": [
+"L2/12-206",
+"L2/12-357"
+],
+"minutes": "https://www.unicode.org/L2/L2012/12343.htm#133-C36"
+},
+"134-C1": {
+"docs": [
+"L2/12-044R"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13011.htm#134-C1"
+},
+"134-C3": {
+"docs": [
+"L2/12-359"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13011.htm#134-C3"
+},
+"134-C6": {
+"docs": [
+"L2/12-303"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13011.htm#134-C6"
+},
+"134-C8": {
+"docs": [
+"L2/13-008"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13011.htm#134-C8"
+},
+"134-C9": {
+"docs": [
+"L2/12-323",
+"L2/13-033"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13011.htm#134-C9"
+},
+"135-C15": {
+"docs": [
+"L2/13-063"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13058.htm#135-C15"
+},
+"135-C18": {
+"docs": [
+"L2/13-062"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13058.htm#135-C18"
+},
+"135-C20": {
+"docs": [
+"L2/12-016"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13058.htm#135-C20"
+},
+"135-C6": {
+"docs": [
+"L2/13-054"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13058.htm#135-C6"
+},
+"135-C7": {
+"docs": [
+"L2/13-056"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13058.htm#135-C7"
+},
+"136-C11": {
+"docs": [
+"L2/13-154"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C11"
+},
+"136-C17": {
+"docs": [
+"L2/13-151"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C17"
+},
+"136-C18": {
+"docs": [
+"L2/13-151"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C18"
+},
+"136-C2": {
+"docs": [
+"L2/13-143"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C2"
+},
+"136-C22": {
+"docs": [
+"L2/13-130"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C22"
+},
+"136-C23": {
+"docs": [
+"L2/13-139"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C23"
+},
+"136-C29": {
+"docs": [
+"L2/13-151"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C29"
+},
+"136-C5": {
+"docs": [
+"L2/13-154"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C5"
+},
+"136-C8": {
+"docs": [
+"L2/13-150"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13132.htm#136-C8"
+},
+"137-C5": {
+"docs": [
+"L2/13-198"
+],
+"minutes": "https://www.unicode.org/L2/L2013/13200.htm#137-C5"
+},
+"138-C1": {
+"docs": [
+"L2/14-023"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14026.htm#138-C1"
+},
+"138-C3": {
+"docs": [
+"L2/13-197"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14026.htm#138-C3"
+},
+"139-C9": {
+"docs": [
+"L2/14-105"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14100.htm#139-C9"
+},
+"140-C1": {
+"docs": [
+"L2/14-156"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C1"
+},
+"140-C11": {
+"docs": [
+"L2/14-196"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C11"
+},
+"140-C12": {
+"docs": [
+"L2/14-161"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C12"
+},
+"140-C2": {
+"docs": [
+"L2/14-157"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C2"
+},
+"140-C22": {
+"docs": [
+"L2/14-158"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C22"
+},
+"140-C23": {
+"docs": [
+"L2/14-170"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C23"
+},
+"140-C24": {
+"docs": [
+"L2/14-207"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C24"
+},
+"140-C28": {
+"docs": [
+"L2/14-213"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C28"
+},
+"140-C4": {
+"docs": [
+"L2/14-153"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C4"
+},
+"140-C5": {
+"docs": [
+"L2/14-163"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14177.htm#140-C5"
+},
+"141-C19": {
+"docs": [
+"L2/14-284R"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C19"
+},
+"141-C20": {
+"docs": [
+"L2/14-219R"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C20"
+},
+"141-C21": {
+"docs": [
+"L2/14-214"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C21"
+},
+"141-C23": {
+"docs": [
+"L2/14-285"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C23"
+},
+"141-C25": {
+"docs": [
+"L2/14-285R"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C25"
+},
+"141-C27": {
+"docs": [
+"L2/14-271"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C27"
+},
+"141-C28": {
+"docs": [
+"L2/14-278R"
+],
+"minutes": "https://www.unicode.org/L2/L2014/14250.htm#141-C28"
+},
+"142-C12": {
+"docs": [
+"L2/14-015R"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15017.htm#142-C12"
+},
+"142-C13": {
+"docs": [
+"L2/15-045"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15017.htm#142-C13"
+},
+"142-C14": {
+"docs": [
+"L2/14-003"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15017.htm#142-C14"
+},
+"142-C2": {
+"docs": [
+"L2/14-228",
+"L2/15-020"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15017.htm#142-C2"
+},
+"142-C6": {
+"docs": [
+"L2/15-004"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15017.htm#142-C6"
+},
+"142-C8": {
+"docs": [
+"L2/15-031"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15017.htm#142-C8"
+},
+"143-C8": {
+"docs": [
+"L2/15-083"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15107.htm#143-C8"
+},
+"144-C10": {
+"docs": [
+"L2/15-160"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15187.htm#144-C10"
+},
+"144-C11": {
+"docs": [
+"L2/15-161"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15187.htm#144-C11"
+},
+"144-C12": {
+"docs": [
+"L2/15-172"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15187.htm#144-C12"
+},
+"144-C13": {
+"docs": [
+"L2/15-173R2"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15187.htm#144-C13"
+},
+"144-C5": {
+"docs": [
+"L2/15-181"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15187.htm#144-C5"
+},
+"145-C11": {
+"docs": [
+"L2/15-233"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C11"
+},
+"145-C15": {
+"docs": [
+"L2/15-235"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C15"
+},
+"145-C20": {
+"docs": [
+"L2/15-270"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C20"
+},
+"145-C21": {
+"docs": [
+"L2/15-270"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C21"
+},
+"145-C30": {
+"docs": [
+"L2/15-270"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C30"
+},
+"145-C32": {
+"docs": [
+"L2/15-121R2"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C32"
+},
+"145-C33": {
+"docs": [
+"L2/15-267R"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C33"
+},
+"145-C7": {
+"docs": [
+"L2/15-229"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C7"
+},
+"145-C8": {
+"docs": [
+"L2/15-272"
+],
+"minutes": "https://www.unicode.org/L2/L2015/15254.htm#145-C8"
+},
+"146-C10": {
+"docs": [
+"L2/15-342"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16004.htm#146-C10"
+},
+"146-C16": {
+"docs": [
+"L2/16-018R"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16004.htm#146-C16"
+},
+"146-C17": {
+"docs": [
+"L2/16-046"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16004.htm#146-C17"
+},
+"146-C23": {
+"docs": [
+"L2/16-045"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16004.htm#146-C23"
+},
+"147-C30": {
+"docs": [
+"L2/16-097R"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16121.htm#147-C30"
+},
+"147-C34": {
+"docs": [
+"L2/16-064"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16121.htm#147-C34"
+},
+"147-C35": {
+"docs": [
+"L2/16-067"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16121.htm#147-C35"
+},
+"147-C40": {
+"docs": [
+"L2/16-044"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16121.htm#147-C40"
+},
+"147-C41": {
+"docs": [
+"L2/16-101"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16121.htm#147-C41"
+},
+"148-C15": {
+"docs": [
+"L2/16-235"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16203.htm#148-C15"
+},
+"148-C19": {
+"docs": [
+"L2/16-080R"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16203.htm#148-C19"
+},
+"148-C2": {
+"docs": [
+"L2/16-220"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16203.htm#148-C2"
+},
+"148-C5": {
+"docs": [
+"L2/16-209"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16203.htm#148-C5"
+},
+"148-C6": {
+"docs": [
+"L2/16-170"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16203.htm#148-C6"
+},
+"148-C7": {
+"docs": [
+"L2/16-170"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16203.htm#148-C7"
+},
+"149-C16": {
+"docs": [
+"L2/16-330"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16325.htm#149-C16"
+},
+"149-C18": {
+"docs": [
+"L2/16-173"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16325.htm#149-C18"
+},
+"149-C3": {
+"docs": [
+"L2/17-285"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16325.htm#149-C3"
+},
+"149-C6": {
+"docs": [
+"L2/16-298",
+"L2/16-254"
+],
+"minutes": "https://www.unicode.org/L2/L2016/16325.htm#149-C6"
+},
+"150-C10": {
+"docs": [
+"L2/17-012"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C10"
+},
+"150-C14": {
+"docs": [
+"L2/16-311R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C14"
+},
+"150-C15": {
+"docs": [
+"L2/16-312R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C15"
+},
+"150-C16": {
+"docs": [
+"L2/16-371R2"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C16"
+},
+"150-C20": {
+"docs": [
+"L2/16-381",
+"L2/16-271"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C20"
+},
+"150-C23": {
+"docs": [
+"L2/17-007"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C23"
+},
+"150-C26": {
+"docs": [
+"L2/17-033R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17016.htm#150-C26"
+},
+"151-C11": {
+"docs": [
+"L2/17-162"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C11"
+},
+"151-C12": {
+"docs": [
+"L2/17-117"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C12"
+},
+"151-C13": {
+"docs": [
+"L2/17-066R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C13"
+},
+"151-C15": {
+"docs": [
+"L2/17-076R2"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C15"
+},
+"151-C18": {
+"docs": [
+"L2/17-069"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C18"
+},
+"151-C7": {
+"docs": [
+"L2/17-002R3"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C7"
+},
+"151-C8": {
+"docs": [
+"L2/17-034R3"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C8"
+},
+"151-C9": {
+"docs": [
+"L2/16-081"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17103.htm#151-C9"
+},
+"152-C10": {
+"docs": [
+"L2/17-191"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C10"
+},
+"152-C11": {
+"docs": [
+"L2/17-106R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C11"
+},
+"152-C12": {
+"docs": [
+"L2/17-151"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C12"
+},
+"152-C17": {
+"docs": [
+"L2/17-067R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C17"
+},
+"152-C18": {
+"docs": [
+"L2/17-238"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C18"
+},
+"152-C19": {
+"docs": [
+"L2/17-218"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C19"
+},
+"152-C20": {
+"docs": [
+"L2/17-201"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C20"
+},
+"152-C27": {
+"docs": [
+"L2/17-112R"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C27"
+},
+"152-C7": {
+"docs": [
+"L2/17-093"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17222.htm#152-C7"
+},
+"153-C12": {
+"docs": [
+"L2/17-360"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17362.htm#153-C12"
+},
+"153-C29": {
+"docs": [
+"L2/17-226R2"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17362.htm#153-C29"
+},
+"153-C30": {
+"docs": [
+"L2/17-348"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17362.htm#153-C30"
+},
+"153-C6": {
+"docs": [
+"L2/17-013"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17362.htm#153-C6"
+},
+"153-C7": {
+"docs": [
+"L2/17-299"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17362.htm#153-C7"
+},
+"153-C8": {
+"docs": [
+"L2/17-156",
+"L2/17-396",
+"L2/17-397"
+],
+"minutes": "https://www.unicode.org/L2/L2017/17362.htm#153-C8"
+},
+"154-C10": {
+"docs": [
+"L2/17-440"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C10"
+},
+"154-C11": {
+"docs": [
+"L2/17-213R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C11"
+},
+"154-C18": {
+"docs": [
+"L2/18-016R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C18"
+},
+"154-C19": {
+"docs": [
+"L2/17-428"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C19"
+},
+"154-C20": {
+"docs": [
+"L2/17-214R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C20"
+},
+"154-C21": {
+"docs": [
+"L2/17-242R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C21"
+},
+"154-C9": {
+"docs": [
+"L2/17-369R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18007.htm#154-C9"
+},
+"155-C10": {
+"docs": [
+"L2/18-094"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18115.htm#155-C10"
+},
+"155-C17": {
+"docs": [
+"L2/18-032",
+"L2/18-174"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18115.htm#155-C17"
+},
+"155-C18": {
+"docs": [
+"L2/18-143R2"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18115.htm#155-C18"
+},
+"155-C22": {
+"docs": [
+"L2/18-060"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18115.htm#155-C22"
+},
+"155-C23": {
+"docs": [
+"L2/17-276R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18115.htm#155-C23"
+},
+"156-C15": {
+"docs": [
+"L2/18-194"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18183.htm#156-C15"
+},
+"156-C17": {
+"docs": [
+"L2/18-221"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18183.htm#156-C17"
+},
+"156-C21": {
+"docs": [
+"L2/18-164R2"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18183.htm#156-C21"
+},
+"157-C12": {
+"docs": [
+"L2/18-282R"
+],
+"minutes": "https://www.unicode.org/L2/L2018/18272.htm#157-C12"
+},
+"158-C11": {
+"docs": [
+"L2/18-338R"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19008.htm#158-C11"
+},
+"158-C15": {
+"docs": [
+"L2/19-025"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19008.htm#158-C15"
+},
+"159-C17": {
+"docs": [
+"L2/19-051R"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C17"
+},
+"159-C21": {
+"docs": [
+"L2/19-177R"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C21"
+},
+"159-C22": {
+"docs": [
+"L2/19-143"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C22"
+},
+"159-C23": {
+"docs": [
+"L2/19-091"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C23"
+},
+"159-C29": {
+"docs": [
+"L2/19-075"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C29"
+},
+"159-C30": {
+"docs": [
+"L2/19-076"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C30"
+},
+"159-C4": {
+"docs": [
+"L2/19-092"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C4"
+},
+"159-C8": {
+"docs": [
+"L2/19-118"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19122.htm#159-C8"
+},
+"160-C14": {
+"docs": [
+"L2/19-250",
+"L2/19-262",
+"L2/19-056",
+"L2/19-235",
+"L2/19-249R"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19270.htm#160-C14"
+},
+"160-C2": {
+"docs": [
+"L2/19-252"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19270.htm#160-C2"
+},
+"160-C24": {
+"docs": [
+"L2/19-258R"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19270.htm#160-C24"
+},
+"160-C3": {
+"docs": [
+"L2/19-053"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19270.htm#160-C3"
+},
+"161-C10": {
+"docs": [
+"L2/19-330"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C10"
+},
+"161-C11": {
+"docs": [
+"L2/19-288R"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C11"
+},
+"161-C12": {
+"docs": [
+"L2/19-264"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C12"
+},
+"161-C14": {
+"docs": [
+"L2/19-318"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C14"
+},
+"161-C2": {
+"docs": [
+"L2/19-313"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C2"
+},
+"161-C4": {
+"docs": [
+"L2/19-306"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C4"
+},
+"161-C5": {
+"docs": [
+"L2/19-339"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C5"
+},
+"161-C6": {
+"docs": [
+"L2/19-340"
+],
+"minutes": "https://www.unicode.org/L2/L2019/19323.htm#161-C6"
+},
+"162-C10": {
+"docs": [
+"L2/20-019"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20015.htm#162-C10"
+},
+"162-C19": {
+"docs": [
+"L2/20-042"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20015.htm#162-C19"
+},
+"162-C20": {
+"docs": [
+"L2/19-381"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20015.htm#162-C20"
+},
+"162-C24": {
+"docs": [
+"L2/19-402"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20015.htm#162-C24"
+},
+"162-C25": {
+"docs": [
+"L2/20-057"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20015.htm#162-C25"
+},
+"163-C13": {
+"docs": [
+"L2/20-081"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20102.htm#163-C13"
+},
+"163-C14": {
+"docs": [
+"L2/20-089"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20102.htm#163-C14"
+},
+"163-C16": {
+"docs": [
+"L2/20-085"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20102.htm#163-C16"
+},
+"163-C17": {
+"docs": [
+"L2/20-084R"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20102.htm#163-C17"
+},
+"163-C18": {
+"docs": [
+"L2/20-119"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20102.htm#163-C18"
+},
+"163-C26": {
+"docs": [
+"L2/20-074R"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20102.htm#163-C26"
+},
+"164-C10": {
+"docs": [
+"L2/20-115R"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20172.htm#164-C10"
+},
+"164-C12": {
+"docs": [
+"L2/20-182"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20172.htm#164-C12"
+},
+"164-C13": {
+"docs": [
+"L2/19-402"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20172.htm#164-C13"
+},
+"164-C14": {
+"docs": [
+"L2/20-151"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20172.htm#164-C14"
+},
+"164-C17": {
+"docs": [
+"L2/20-159"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20172.htm#164-C17"
+},
+"164-C9": {
+"docs": [
+"L2/20-116R"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20172.htm#164-C9"
+},
+"165-C14": {
+"docs": [
+"L2/20-255"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20237.htm#165-C14"
+},
+"165-C17": {
+"docs": [
+"L2/20-258"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20237.htm#165-C17"
+},
+"165-C18": {
+"docs": [
+"L2/20-272"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20237.htm#165-C18"
+},
+"165-C20": {
+"docs": [
+"L2/20-261"
+],
+"minutes": "https://www.unicode.org/L2/L2020/20237.htm#165-C20"
+},
+"166-C10": {
+"docs": [
+"L2/20-252R"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C10"
+},
+"166-C11": {
+"docs": [
+"L2/20-253R"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C11"
+},
+"166-C16": {
+"docs": [
+"L2/21-039"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C16"
+},
+"166-C21": {
+"docs": [
+"L2/21-036"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C21"
+},
+"166-C24": {
+"docs": [
+"L2/21-037"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C24"
+},
+"166-C25": {
+"docs": [
+"L2/20-191"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C25"
+},
+"166-C28": {
+"docs": [
+"L2/20-228R"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C28"
+},
+"166-C29": {
+"docs": [
+"L2/21-027"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C29"
+},
+"166-C30": {
+"docs": [
+"L2/20-284R"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C30"
+},
+"166-C31": {
+"docs": [
+"L2/20-209R"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21009.htm#166-C31"
+},
+"167-C6": {
+"docs": [
+"L2/21-031R"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21066.htm#167-C6"
+},
+"167-C7": {
+"docs": [
+"L2/21-058"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21066.htm#167-C7"
+},
+"168-C19": {
+"docs": [
+"L2/21-107"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C19"
+},
+"168-C20": {
+"docs": [
+"L2/21-142"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C20"
+},
+"168-C22": {
+"docs": [
+"L2/21-133"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C22"
+},
+"168-C23": {
+"docs": [
+"L2/21-102"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C23"
+},
+"168-C24": {
+"docs": [
+"L2/21-114"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C24"
+},
+"168-C25": {
+"docs": [
+"L2/21-110"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C25"
+},
+"168-C26": {
+"docs": [
+"L2/21-103"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C26"
+},
+"168-C27": {
+"docs": [
+"L2/21-104"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C27"
+},
+"168-C28": {
+"docs": [
+"L2/21-093"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C28"
+},
+"168-C30": {
+"docs": [
+"L2/21-144"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21123.htm#168-C30"
+},
+"169-C12": {
+"docs": [
+"L2/21-173"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21167.htm#169-C12"
+},
+"169-C6": {
+"docs": [
+"L2/21-156"
+],
+"minutes": "https://www.unicode.org/L2/L2021/21167.htm#169-C6"
+},
+"170-C10": {
+"docs": [
+"L2/21-224"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C10"
+},
+"170-C11": {
+"docs": [
+"L2/22-005"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C11"
+},
+"170-C15": {
+"docs": [
+"L2/21-235"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C15"
+},
+"170-C17": {
+"docs": [
+"L2/21-234"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C17"
+},
+"170-C6": {
+"docs": [
+"L2/22-010",
+"L2/21-247",
+"L2/21-231",
+"L2/21-229"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C6"
+},
+"170-C7": {
+"docs": [
+"L2/22-006"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C7"
+},
+"170-C8": {
+"docs": [
+"L2/21-157R"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C8"
+},
+"170-C9": {
+"docs": [
+"L2/22-031"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22016.htm#170-C9"
+},
+"171-C13": {
+"docs": [
+"L2/22-043R"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C13"
+},
+"171-C14": {
+"docs": [
+"L2/22-047"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C14"
+},
+"171-C15": {
+"docs": [
+"L2/22-045"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C15"
+},
+"171-C17": {
+"docs": [
+"L2/20-188R2"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C17"
+},
+"171-C18": {
+"docs": [
+"L2/22-048"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C18"
+},
+"171-C19": {
+"docs": [
+"L2/22-059"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C19"
+},
+"171-C20": {
+"docs": [
+"L2/22-046"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22061.htm#171-C20"
+},
+"172-C3": {
+"docs": [
+"L2/22-116"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22121.htm#172-C3"
+},
+"172-C4": {
+"docs": [
+"L2/22-119"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22121.htm#172-C4"
+},
+"172-C5": {
+"docs": [
+"L2/22-113R",
+"L2/22-113"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22121.htm#172-C5"
+},
+"173-C26": {
+"docs": [
+"L2/22-151R"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22241.htm#173-C26"
+},
+"173-C27": {
+"docs": [
+"L2/22-260"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22241.htm#173-C27"
+},
+"173-C28": {
+"docs": [
+"L2/22-236"
+],
+"minutes": "https://www.unicode.org/L2/L2022/22241.htm#173-C28"
+},
+"174-C17": {
+"docs": [
+"L2/23-019"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23005.htm#174-C17"
+},
+"174-C18": {
+"docs": [
+"L2/22-281R"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23005.htm#174-C18"
+},
+"174-C22": {
+"docs": [
+"L2/23-024"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23005.htm#174-C22"
+},
+"174-C23": {
+"docs": [
+"L2/22-289R"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23005.htm#174-C23"
+},
+"175-C10": {
+"docs": [
+"L2/23-106"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23076.htm#175-C10"
+},
+"175-C13": {
+"docs": [
+"L2/23-103"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23076.htm#175-C13"
+},
+"175-C15": {
+"docs": [
+"L2/23-065"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23076.htm#175-C15"
+},
+"176-C1": {
+"docs": [
+"L2/23-114R"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C1"
+},
+"176-C29": {
+"docs": [
+"L2/23-181"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C29"
+},
+"176-C31": {
+"docs": [
+"L2/23-191"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C31"
+},
+"176-C32": {
+"docs": [
+"L2/23-135"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C32"
+},
+"176-C33": {
+"docs": [
+"L2/23-121"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C33"
+},
+"176-C34": {
+"docs": [
+"L2/23-122"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C34"
+},
+"176-C35": {
+"docs": [
+"L2/23-188"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C35"
+},
+"176-C36": {
+"docs": [
+"L2/23-185"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C36"
+},
+"176-C38": {
+"docs": [
+"L2/23-164"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23157.htm#176-C38"
+},
+"177-C19": {
+"docs": [
+"L2/23-238"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C19"
+},
+"177-C2": {
+"docs": [
+"L2/23-236"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C2"
+},
+"177-C20": {
+"docs": [
+"L2/23-219"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C20"
+},
+"177-C21": {
+"docs": [
+"L2/23-248"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C21"
+},
+"177-C27": {
+"docs": [
+"L2/23-247"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C27"
+},
+"177-C28": {
+"docs": [
+"L2/23-246"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C28"
+},
+"177-C32": {
+"docs": [
+"L2/23-207"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C32"
+},
+"177-C34": {
+"docs": [
+"L2/23-218"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C34"
+},
+"177-C37": {
+"docs": [
+"L2/23-238"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C37"
+},
+"177-C38": {
+"docs": [
+"L2/23-208"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C38"
+},
+"177-C39": {
+"docs": [
+"L2/23-206"
+],
+"minutes": "https://www.unicode.org/L2/L2023/23231.htm#177-C39"
+},
+"178-C1": {
+"docs": [
+"L2/24-008"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C1"
+},
+"178-C16": {
+"docs": [
+"L2/24-002"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C16"
+},
+"178-C27": {
+"docs": [
+"L2/23-284"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C27"
+},
+"178-C31": {
+"docs": [
+"L2/23-277"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C31"
+},
+"178-C33": {
+"docs": [
+"L2/24-018"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C33"
+},
+"178-C35": {
+"docs": [
+"L2/24-020"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C35"
+},
+"178-C36": {
+"docs": [
+"L2/23-278R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C36"
+},
+"178-C37": {
+"docs": [
+"L2/23-276"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24006.htm#178-C37"
+},
+"179-C44": {
+"docs": [
+"L2/24-071R2"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C44"
+},
+"179-C45": {
+"docs": [
+"L2/24-004R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C45"
+},
+"179-C46": {
+"docs": [
+"L2/24-107"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C46"
+},
+"179-C47": {
+"docs": [
+"L2/24-046"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C47"
+},
+"179-C48": {
+"docs": [
+"L2/24-055"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C48"
+},
+"179-C49": {
+"docs": [
+"L2/24-077"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C49"
+},
+"179-C53": {
+"docs": [
+"L2/24-048"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C53"
+},
+"179-C54": {
+"docs": [
+"L2/24-106"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C54"
+},
+"179-C55": {
+"docs": [
+"L2/24-051"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C55"
+},
+"179-C57": {
+"docs": [
+"L2/24-105"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C57"
+},
+"179-C58": {
+"docs": [
+"L2/24-080"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C58"
+},
+"179-C59": {
+"docs": [
+"L2/24-050"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C59"
+},
+"179-C60": {
+"docs": [
+"L2/24-052R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C60"
+},
+"179-C61": {
+"docs": [
+"L2/24-081"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C61"
+},
+"179-C62": {
+"docs": [
+"L2/24-068"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24061.htm#179-C62"
+},
+"180-C1": {
+"docs": [
+"L2/24-138",
+"N5254"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C1"
+},
+"180-C22": {
+"docs": [
+"L2/24-131"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C22"
+},
+"180-C25": {
+"docs": [
+"L2/24-166"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C25"
+},
+"180-C26": {
+"docs": [
+"L2/24-178"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C26"
+},
+"180-C27": {
+"docs": [
+"L2/24-166"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C27"
+},
+"180-C28": {
+"docs": [
+"L2/24-139"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C28"
+},
+"180-C29": {
+"docs": [
+"L2/24-140"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C29"
+},
+"180-C32": {
+"docs": [
+"L2/24-130R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C32"
+},
+"180-C33": {
+"docs": [
+"L2/24-144"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C33"
+},
+"180-C34": {
+"docs": [
+"L2/24-145R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C34"
+},
+"180-C35": {
+"docs": [
+"L2/24-146"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C35"
+},
+"180-C36": {
+"docs": [
+"L2/24-147"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C36"
+},
+"180-C37": {
+"docs": [
+"L2/24-171"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C37"
+},
+"180-C38": {
+"docs": [
+"L2/24-166"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C38"
+},
+"180-C39": {
+"docs": [
+"L2/24-172"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C39"
+},
+"180-C40": {
+"docs": [
+"L2/24-174"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C40"
+},
+"180-C6": {
+"docs": [
+"L2/24-150"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24159.htm#180-C6"
+},
+"181-C10": {
+"docs": [
+"L2/24-243"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C10"
+},
+"181-C31": {
+"docs": [
+"L2/24-210R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C31"
+},
+"181-C32": {
+"docs": [
+"L2/24-236"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C32"
+},
+"181-C33": {
+"docs": [
+"L2/24-234"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C33"
+},
+"181-C34": {
+"docs": [
+"L2/24-232"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C34"
+},
+"181-C35": {
+"docs": [
+"L2/24-219"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C35"
+},
+"181-C36": {
+"docs": [
+"L2/24-231"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C36"
+},
+"181-C37": {
+"docs": [
+"L2/24-134R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C37"
+},
+"181-C38": {
+"docs": [
+"L2/24-214"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C38"
+},
+"181-C39": {
+"docs": [
+"L2/24-213"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C39"
+},
+"181-C40": {
+"docs": [
+"L2/24-151"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C40"
+},
+"181-C45": {
+"docs": [
+"L2/24-228"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C45"
+},
+"181-C47": {
+"docs": [
+"L2/24-228"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C47"
+},
+"181-C5": {
+"docs": [
+"L2/24-226R"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C5"
+},
+"181-C8": {
+"docs": [
+"L2/24-237"
+],
+"minutes": "https://www.unicode.org/L2/L2024/24221.htm#181-C8"
+},
+"182-C10": {
+"docs": [
+"L2/25-017"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C10"
+},
+"182-C11": {
+"docs": [
+"L2/25-015"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C11"
+},
+"182-C3": {
+"docs": [
+"L2/24-270"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C3"
+},
+"182-C31": {
+"docs": [
+"L2/24-279"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C31"
+},
+"182-C4": {
+"docs": [
+"L2/24-274"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C4"
+},
+"182-C5": {
+"docs": [
+"L2/25-022"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C5"
+},
+"182-C6": {
+"docs": [
+"L2/24-273"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C6"
+},
+"182-C7": {
+"docs": [
+"L2/24-277"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C7"
+},
+"182-C8": {
+"docs": [
+"L2/25-016"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C8"
+},
+"182-C9": {
+"docs": [
+"L2/24-272"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25003.htm#182-C9"
+},
+"183-C10": {
+"docs": [
+"L2/25-061"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C10"
+},
+"183-C12": {
+"docs": [
+"L2/25-062"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C12"
+},
+"183-C13": {
+"docs": [
+"L2/25-018"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C13"
+},
+"183-C14": {
+"docs": [
+"L2/25-071",
+"L2/25-091R"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C14"
+},
+"183-C21": {
+"docs": [
+"L2/25-065"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C21"
+},
+"183-C22": {
+"docs": [
+"L2/25-064"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C22"
+},
+"183-C4": {
+"docs": [
+"L2/25-075"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C4"
+},
+"183-C54": {
+"docs": [
+"L2/25-036"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C54"
+},
+"183-C55": {
+"docs": [
+"L2/25-090"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C55"
+},
+"183-C7": {
+"docs": [
+"N5303"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25085.htm#183-C7"
+},
+"184-C17": {
+"docs": [
+"L2/25-159"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C17"
+},
+"184-C18": {
+"docs": [
+"L2/25-122R"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C18"
+},
+"184-C19": {
+"docs": [
+"N5330"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C19"
+},
+"184-C38": {
+"docs": [
+"L2/25-151R"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C38"
+},
+"184-C4": {
+"docs": [
+"L2/25-165"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C4"
+},
+"184-C5": {
+"docs": [
+"L2/25-164"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C5"
+},
+"184-C7": {
+"docs": [
+"N5304"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C7"
+},
+"184-C9": {
+"docs": [
+"L2/25-175"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25181.htm#184-C9"
+},
+"185-C3": {
+"docs": [
+"N5344"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25226.htm#185-C3"
+},
+"185-C32": {
+"docs": [
+"N5331"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25226.htm#185-C32"
+},
+"185-C33": {
+"docs": [
+"L2/25-232R"
+],
+"minutes": "https://www.unicode.org/L2/L2025/25226.htm#185-C33"
+},
+"186-C24": {
+"docs": [
+"L2/26-041",
+"L2/26-010"
+],
+"minutes": "https://www.unicode.org/L2/L2026/26003.htm#186-C24"
+}
+},
+"runs": [
+[
+880,
+883,
+[
+"103-C15"
+]
+],
+[
+886,
+887,
+[
+"103-C15"
+]
+],
+[
+975,
+975,
+[
+"108-C21"
+]
+],
+[
+1159,
+1159,
+[
+"110-C37"
+]
+],
+[
+1300,
+1315,
+[
+"110-C37"
+]
+],
+[
+1368,
+1368,
+[
+"179-C46"
+]
+],
+[
+1419,
+1420,
+[
+"179-C46"
+]
+],
+[
+1480,
+1480,
+[
+"182-C4",
+"185-C33"
+]
+],
+[
+1481,
+1481,
+[
+"184-C9",
+"185-C33"
+]
+],
+[
+1542,
+1546,
+[
+"107-C41"
+]
+],
+[
+1902,
+1917,
+[
+"107-C40"
+]
+],
+[
+2048,
+2093,
+[
+"114-C37"
+]
+],
+[
+2096,
+2110,
+[
+"114-C37"
+]
+],
+[
+2112,
+2139,
+[
+"116-C22"
+]
+],
+[
+2142,
+2142,
+[
+"116-C22"
+]
+],
+[
+2160,
+2184,
+[
+"161-C4"
+]
+],
+[
+2185,
+2186,
+[
+"161-C5"
+]
+],
+[
+2187,
+2189,
+[
+"161-C6"
+]
+],
+[
+2190,
+2190,
+[
+"163-C26"
+]
+],
+[
+2191,
+2191,
+[
+"179-C47"
+]
+],
+[
+2199,
+2199,
+[
+"168-C22",
+"172-C3"
+]
+],
+[
+2200,
+2204,
+[
+"163-C14"
+]
+],
+[
+2205,
+2207,
+[
+"161-C4"
+]
+],
+[
+2227,
+2228,
+[
+"136-C22"
+]
+],
+[
+2229,
+2229,
+[
+"161-C2"
+]
+],
+[
+2235,
+2237,
+[
+"140-C24"
+]
+],
+[
+2238,
+2242,
+[
+"155-C17"
+]
+],
+[
+2243,
+2244,
+[
+"155-C10"
+]
+],
+[
+2245,
+2246,
+[
+"159-C8"
+]
+],
+[
+2248,
+2248,
+[
+"160-C2"
+]
+],
+[
+2249,
+2258,
+[
+"161-C4"
+]
+],
+[
+2259,
+2259,
+[
+"147-C40"
+]
+],
+[
+2260,
+2260,
+[
+"140-C23"
+]
+],
+[
+2261,
+2274,
+[
+"139-C9"
+]
+],
+[
+2275,
+2275,
+[
+"136-C22"
+]
+],
+[
+2304,
+2304,
+[
+"114-C29"
+]
+],
+[
+2382,
+2382,
+[
+"114-C29",
+"116-C17"
+]
+],
+[
+2389,
+2389,
+[
+"113-C19"
+]
+],
+[
+2417,
+2417,
+[
+"107-C27"
+]
+],
+[
+2418,
+2418,
+[
+"110-C43"
+]
+],
+[
+2419,
+2420,
+[
+"114-C29",
+"116-C17"
+]
+],
+[
+2425,
+2426,
+[
+"113-C19"
+]
+],
+[
+2432,
+2432,
+[
+"132-C4"
+]
+],
+[
+2555,
+2555,
+[
+"112-C7"
+]
+],
+[
+2556,
+2556,
+[
+"144-C11"
+]
+],
+[
+2557,
+2557,
+[
+"144-C12"
+]
+],
+[
+2641,
+2641,
+[
+"105-C27"
+]
+],
+[
+2677,
+2677,
+[
+"106-C11"
+]
+],
+[
+2678,
+2678,
+[
+"148-C5"
+]
+],
+[
+2809,
+2809,
+[
+"136-C2"
+]
+],
+[
+2899,
+2900,
+[
+"179-C54"
+]
+],
+[
+3024,
+3024,
+[
+"107-C43"
+]
+],
+[
+3076,
+3076,
+[
+"149-C3"
+]
+],
+[
+3132,
+3132,
+[
+"163-C16"
+]
+],
+[
+3133,
+3133,
+[
+"108-C20"
+]
+],
+[
+3160,
+3161,
+[
+"108-C20"
+]
+],
+[
+3162,
+3162,
+[
+"135-C20"
+]
+],
+[
+3164,
+3164,
+[
+"163-C18",
+"170-C7"
+]
+],
+[
+3165,
+3165,
+[
+"163-C17"
+]
+],
+[
+3170,
+3171,
+[
+"108-C20"
+]
+],
+[
+3191,
+3191,
+[
+"152-C19"
+]
+],
+[
+3200,
+3200,
+[
+"140-C4"
+]
+],
+[
+3292,
+3292,
+[
+"170-C7"
+]
+],
+[
+3293,
+3293,
+[
+"166-C28"
+]
+],
+[
+3298,
+3299,
+[
+"105-C34"
+]
+],
+[
+3313,
+3314,
+[
+"105-C34"
+]
+],
+[
+3315,
+3315,
+[
+"168-C24"
+]
+],
+[
+3328,
+3328,
+[
+"142-C14"
+]
+],
+[
+3332,
+3332,
+[
+"155-C23"
+]
+],
+[
+3369,
+3369,
+[
+"115-C8"
+]
+],
+[
+3386,
+3386,
+[
+"115-C8"
+]
+],
+[
+3387,
+3387,
+[
+"142-C12"
+]
+],
+[
+3388,
+3388,
+[
+"142-C13"
+]
+],
+[
+3389,
+3389,
+[
+"105-C21"
+]
+],
+[
+3396,
+3396,
+[
+"105-C21"
+]
+],
+[
+3407,
+3407,
+[
+"135-C15"
+]
+],
+[
+3426,
+3426,
+[
+"105-C21"
+]
+],
+[
+3440,
+3442,
+[
+"104-C17"
+]
+],
+[
+3443,
+3445,
+[
+"104-C19"
+]
+],
+[
+3449,
+3449,
+[
+"105-C21"
+]
+],
+[
+3450,
+3455,
+[
+"107-C52"
+]
+],
+[
+3457,
+3457,
+[
+"155-C22"
+]
+],
+[
+3718,
+3718,
+[
+"152-C11"
+]
+],
+[
+3721,
+3721,
+[
+"152-C11"
+]
+],
+[
+3724,
+3724,
+[
+"152-C11"
+]
+],
+[
+3726,
+3731,
+[
+"152-C11"
+]
+],
+[
+3736,
+3736,
+[
+"152-C11"
+]
+],
+[
+3744,
+3744,
+[
+"152-C11"
+]
+],
+[
+3752,
+3753,
+[
+"152-C11"
+]
+],
+[
+3756,
+3756,
+[
+"152-C11"
+]
+],
+[
+3770,
+3770,
+[
+"152-C11"
+]
+],
+[
+3790,
+3790,
+[
+"168-C28"
+]
+],
+[
+3947,
+3948,
+[
+"109-C2"
+]
+],
+[
+4050,
+4050,
+[
+"105-C22"
+]
+],
+[
+4051,
+4052,
+[
+"106-C14"
+]
+],
+[
+4053,
+4056,
+[
+"116-C17"
+]
+],
+[
+4149,
+4149,
+[
+"108-C16"
+]
+],
+[
+5901,
+5901,
+[
+"160-C24"
+]
+],
+[
+5909,
+5909,
+[
+"165-C18"
+]
+],
+[
+5919,
+5919,
+[
+"160-C24"
+]
+],
+[
+6159,
+6159,
+[
+"162-C25"
+]
+],
+[
+6264,
+6264,
+[
+"150-C23"
+]
+],
+[
+6314,
+6314,
+[
+"106-C15"
+]
+],
+[
+6570,
+6571,
+[
+"117-C21"
+]
+],
+[
+6618,
+6618,
+[
+"115-C20"
+]
+],
+[
+6847,
+6848,
+[
+"159-C29"
+]
+],
+[
+6849,
+6852,
+[
+"164-C9"
+]
+],
+[
+6854,
+6854,
+[
+"164-C12"
+]
+],
+[
+6863,
+6863,
+[
+"179-C57"
+]
+],
+[
+6864,
+6869,
+[
+"176-C35"
+]
+],
+[
+6870,
+6872,
+[
+"177-C38"
+]
+],
+[
+6873,
+6875,
+[
+"177-C39"
+]
+],
+[
+6876,
+6876,
+[
+"177-C39",
+"179-C62"
+]
+],
+[
+6877,
+6877,
+[
+"177-C39"
+]
+],
+[
+6878,
+6879,
+[
+"181-C34"
+]
+],
+[
+6880,
+6888,
+[
+"179-C58"
+]
+],
+[
+6889,
+6889,
+[
+"179-C58",
+"181-C47"
+]
+],
+[
+6890,
+6891,
+[
+"179-C58"
+]
+],
+[
+6892,
+6896,
+[
+"181-C34"
+]
+],
+[
+6912,
+6987,
+[
+"103-C10"
+]
+],
+[
+6990,
+6991,
+[
+"171-C19"
+]
+],
+[
+6992,
+7036,
+[
+"103-C10"
+]
+],
+[
+7037,
+7038,
+[
+"161-C14"
+]
+],
+[
+7039,
+7039,
+[
+"171-C19"
+]
+],
+[
+7040,
+7097,
+[
+"107-C33"
+]
+],
+[
+7221,
+7221,
+[
+"104-C24",
+"107-C34"
+]
+],
+[
+7248,
+7295,
+[
+"105-C31"
+]
+],
+[
+7296,
+7304,
+[
+"140-C11"
+]
+],
+[
+7305,
+7306,
+[
+"172-C4"
+]
+],
+[
+7312,
+7354,
+[
+"151-C9"
+]
+],
+[
+7357,
+7359,
+[
+"151-C9"
+]
+],
+[
+7376,
+7379,
+[
+"114-C29"
+]
+],
+[
+7380,
+7384,
+[
+"113-C19"
+]
+],
+[
+7385,
+7385,
+[
+"114-C29"
+]
+],
+[
+7386,
+7387,
+[
+"113-C19"
+]
+],
+[
+7389,
+7391,
+[
+"113-C19"
+]
+],
+[
+7392,
+7392,
+[
+"113-C19",
+"114-C29"
+]
+],
+[
+7394,
+7400,
+[
+"114-C29"
+]
+],
+[
+7405,
+7409,
+[
+"114-C29"
+]
+],
+[
+7415,
+7415,
+[
+"144-C10"
+]
+],
+[
+7418,
+7418,
+[
+"151-C12"
+]
+],
+[
+7627,
+7628,
+[
+"107-C35"
+]
+],
+[
+7629,
+7654,
+[
+"107-C36"
+]
+],
+[
+7670,
+7673,
+[
+"144-C13"
+]
+],
+[
+7674,
+7674,
+[
+"162-C10"
+]
+],
+[
+7675,
+7675,
+[
+"141-C25"
+]
+],
+[
+7677,
+7677,
+[
+"113-C1"
+]
+],
+[
+8292,
+8292,
+[
+"110-C39"
+]
+],
+[
+8335,
+8335,
+[
+"183-C10"
+]
+],
+[
+8349,
+8351,
+[
+"181-C35"
+]
+],
+[
+8374,
+8374,
+[
+"114-C34"
+]
+],
+[
+8375,
+8375,
+[
+"115-C28"
+]
+],
+[
+8376,
+8376,
+[
+"115-C31"
+]
+],
+[
+8379,
+8379,
+[
+"132-C2"
+]
+],
+[
+8380,
+8380,
+[
+"136-C5"
+]
+],
+[
+8382,
+8382,
+[
+"140-C12"
+]
+],
+[
+8383,
+8383,
+[
+"145-C7"
+]
+],
+[
+8384,
+8384,
+[
+"165-C20"
+]
+],
+[
+8385,
+8385,
+[
+"181-C37",
+"183-C4"
+]
+],
+[
+8386,
+8386,
+[
+"184-C18"
+]
+],
+[
+8387,
+8387,
+[
+"184-C17"
+]
+],
+[
+8388,
+8388,
+[
+"186-C24"
+]
+],
+[
+8432,
+8432,
+[
+"110-C39"
+]
+],
+[
+8527,
+8527,
+[
+"109-C25"
+]
+],
+[
+8586,
+8587,
+[
+"135-C6"
+]
+],
+[
+9192,
+9192,
+[
+"114-C38"
+]
+],
+[
+9215,
+9215,
+[
+"142-C8"
+]
+],
+[
+9885,
+9885,
+[
+"107-C41"
+]
+],
+[
+9907,
+9916,
+[
+"107-C42"
+]
+],
+[
+10188,
+10188,
+[
+"110-C39"
+]
+],
+[
+10220,
+10221,
+[
+"106-C13"
+]
+],
+[
+10222,
+10223,
+[
+"110-C39"
+]
+],
+[
+11035,
+11039,
+[
+"110-C39"
+]
+],
+[
+11044,
+11055,
+[
+"110-C39"
+]
+],
+[
+11056,
+11056,
+[
+"107-C41"
+]
+],
+[
+11058,
+11076,
+[
+"107-C41"
+]
+],
+[
+11077,
+11078,
+[
+"110-C39"
+]
+],
+[
+11088,
+11092,
+[
+"110-C39"
+]
+],
+[
+11158,
+11158,
+[
+"178-C33"
+]
+],
+[
+11194,
+11196,
+[
+"149-C18",
+"150-C26"
+]
+],
+[
+11209,
+11209,
+[
+"152-C10"
+]
+],
+[
+11218,
+11218,
+[
+"143-C8"
+]
+],
+[
+11220,
+11223,
+[
+"147-C35"
+]
+],
+[
+11232,
+11239,
+[
+"147-C34"
+]
+],
+[
+11240,
+11241,
+[
+"148-C19",
+"149-C6"
+]
+],
+[
+11242,
+11243,
+[
+"149-C6"
+]
+],
+[
+11244,
+11247,
+[
+"134-C6"
+]
+],
+[
+11248,
+11254,
+[
+"148-C19"
+]
+],
+[
+11257,
+11262,
+[
+"150-C26"
+]
+],
+[
+11263,
+11263,
+[
+"152-C12"
+]
+],
+[
+11311,
+11311,
+[
+"161-C11"
+]
+],
+[
+11359,
+11359,
+[
+"161-C11"
+]
+],
+[
+11365,
+11370,
+[
+"102-C10"
+]
+],
+[
+11375,
+11375,
+[
+"107-C44",
+"108-C21"
+]
+],
+[
+11376,
+11376,
+[
+"107-C44",
+"113-C1"
+]
+],
+[
+11384,
+11386,
+[
+"106-C12"
+]
+],
+[
+11387,
+11388,
+[
+"107-C44",
+"107-C45"
+]
+],
+[
+11389,
+11389,
+[
+"107-C45"
+]
+],
+[
+11390,
+11391,
+[
+"113-C1"
+]
+],
+[
+11632,
+11632,
+[
+"115-C3"
+]
+],
+[
+11647,
+11647,
+[
+"115-C3"
+]
+],
+[
+11744,
+11765,
+[
+"106-C10"
+]
+],
+[
+11766,
+11775,
+[
+"110-C37"
+]
+],
+[
+11800,
+11800,
+[
+"105-C30"
+]
+],
+[
+11802,
+11803,
+[
+"110-C40"
+]
+],
+[
+11806,
+11807,
+[
+"110-C40"
+]
+],
+[
+11818,
+11818,
+[
+"110-C40"
+]
+],
+[
+11820,
+11820,
+[
+"110-C40"
+]
+],
+[
+11822,
+11823,
+[
+"110-C40"
+]
+],
+[
+11828,
+11828,
+[
+"110-C40"
+]
+],
+[
+11831,
+11831,
+[
+"112-C23"
+]
+],
+[
+11832,
+11832,
+[
+"110-C40"
+]
+],
+[
+11835,
+11835,
+[
+"110-C37"
+]
+],
+[
+11840,
+11841,
+[
+"110-C40"
+]
+],
+[
+11842,
+11843,
+[
+"110-C41"
+]
+],
+[
+11844,
+11844,
+[
+"110-C41",
+"140-C2"
+]
+],
+[
+11845,
+11845,
+[
+"110-C41",
+"144-C13"
+]
+],
+[
+11846,
+11849,
+[
+"110-C40",
+"144-C13"
+]
+],
+[
+11852,
+11852,
+[
+"148-C2"
+]
+],
+[
+11853,
+11854,
+[
+"148-C15"
+]
+],
+[
+11856,
+11857,
+[
+"159-C30"
+]
+],
+[
+11869,
+11869,
+[
+"166-C21"
+]
+],
+[
+11872,
+11875,
+[
+"182-C7"
+]
+],
+[
+12589,
+12589,
+[
+"109-C24"
+]
+],
+[
+12590,
+12590,
+[
+"145-C20"
+]
+],
+[
+12732,
+12735,
+[
+"159-C21"
+]
+],
+[
+12752,
+12771,
+[
+"107-C47"
+]
+],
+[
+19894,
+19903,
+[
+"160-C14"
+]
+],
+[
+40892,
+40898,
+[
+"110-C42"
+]
+],
+[
+40900,
+40901,
+[
+"113-C15"
+]
+],
+[
+40903,
+40907,
+[
+"117-C20"
+]
+],
+[
+40938,
+40938,
+[
+"148-C6"
+]
+],
+[
+40939,
+40943,
+[
+"153-C8"
+]
+],
+[
+42192,
+42239,
+[
+"114-C39"
+]
+],
+[
+42241,
+42241,
+[
+"107-C48"
+]
+],
+[
+42277,
+42277,
+[
+"107-C48"
+]
+],
+[
+42354,
+42354,
+[
+"107-C48"
+]
+],
+[
+42390,
+42390,
+[
+"107-C48"
+]
+],
+[
+42560,
+42591,
+[
+"110-C37"
+]
+],
+[
+42594,
+42611,
+[
+"110-C37"
+]
+],
+[
+42620,
+42623,
+[
+"110-C37"
+]
+],
+[
+42654,
+42654,
+[
+"134-C8"
+]
+],
+[
+42786,
+42789,
+[
+"105-C23"
+]
+],
+[
+42790,
+42799,
+[
+"107-C44"
+]
+],
+[
+42800,
+42872,
+[
+"107-C46"
+]
+],
+[
+42873,
+42879,
+[
+"109-C5"
+]
+],
+[
+42880,
+42881,
+[
+"108-C21"
+]
+],
+[
+42882,
+42887,
+[
+"109-C5"
+]
+],
+[
+42888,
+42888,
+[
+"108-C15"
+]
+],
+[
+42895,
+42895,
+[
+"136-C11"
+]
+],
+[
+42896,
+42897,
+[
+"117-C29"
+]
+],
+[
+42926,
+42927,
+[
+"132-C3"
+]
+],
+[
+42928,
+42929,
+[
+"132-C10"
+]
+],
+[
+42938,
+42943,
+[
+"151-C15"
+]
+],
+[
+42944,
+42945,
+[
+"166-C16"
+]
+],
+[
+42946,
+42947,
+[
+"152-C18"
+]
+],
+[
+42948,
+42950,
+[
+"153-C6"
+]
+],
+[
+42955,
+42955,
+[
+"171-C15"
+]
+],
+[
+42956,
+42957,
+[
+"172-C5"
+]
+],
+[
+42958,
+42959,
+[
+"177-C20"
+]
+],
+[
+42962,
+42962,
+[
+"176-C32"
+]
+],
+[
+42964,
+42964,
+[
+"176-C32"
+]
+],
+[
+42970,
+42972,
+[
+"176-C31",
+"177-C19"
+]
+],
+[
+42973,
+42973,
+[
+"182-C7"
+]
+],
+[
+42978,
+42978,
+[
+"181-C8"
+]
+],
+[
+42993,
+42993,
+[
+"179-C61"
+]
+],
+[
+42997,
+42998,
+[
+"159-C4"
+]
+],
+[
+43136,
+43204,
+[
+"105-C32"
+]
+],
+[
+43205,
+43205,
+[
+"140-C5"
+]
+],
+[
+43214,
+43225,
+[
+"105-C32"
+]
+],
+[
+43232,
+43246,
+[
+"110-C37",
+"113-C19"
+]
+],
+[
+43247,
+43249,
+[
+"113-C19"
+]
+],
+[
+43250,
+43250,
+[
+"113-C19",
+"114-C29"
+]
+],
+[
+43251,
+43255,
+[
+"113-C19"
+]
+],
+[
+43256,
+43259,
+[
+"113-C19",
+"116-C17"
+]
+],
+[
+43260,
+43260,
+[
+"113-C19",
+"133-C13"
+]
+],
+[
+43261,
+43261,
+[
+"113-C19",
+"135-C7"
+]
+],
+[
+43264,
+43311,
+[
+"107-C28"
+]
+],
+[
+43312,
+43347,
+[
+"107-C50"
+]
+],
+[
+43359,
+43359,
+[
+"107-C50"
+]
+],
+[
+43392,
+43469,
+[
+"114-C36"
+]
+],
+[
+43471,
+43481,
+[
+"114-C36"
+]
+],
+[
+43486,
+43487,
+[
+"114-C36"
+]
+],
+[
+43520,
+43574,
+[
+"108-C17"
+]
+],
+[
+43584,
+43597,
+[
+"108-C17"
+]
+],
+[
+43600,
+43609,
+[
+"108-C17"
+]
+],
+[
+43612,
+43615,
+[
+"108-C17"
+]
+],
+[
+43616,
+43616,
+[
+"115-C7"
+]
+],
+[
+43872,
+43875,
+[
+"134-C1"
+]
+],
+[
+43878,
+43879,
+[
+"153-C7"
+]
+],
+[
+43880,
+43883,
+[
+"159-C29"
+]
+],
+[
+43884,
+43885,
+[
+"164-C9",
+"181-C10"
+]
+],
+[
+64450,
+64450,
+[
+"161-C4"
+]
+],
+[
+64451,
+64464,
+[
+"179-C49"
+]
+],
+[
+64465,
+64465,
+[
+"179-C49",
+"180-C25"
+]
+],
+[
+64466,
+64466,
+[
+"179-C49"
+]
+],
+[
+64846,
+64847,
+[
+"162-C19"
+]
+],
+[
+64912,
+64912,
+[
+"178-C16"
+]
+],
+[
+64913,
+64913,
+[
+"179-C49"
+]
+],
+[
+64968,
+64972,
+[
+"178-C16"
+]
+],
+[
+64973,
+64973,
+[
+"178-C16",
+"180-C25"
+]
+],
+[
+64974,
+64974,
+[
+"178-C16"
+]
+],
+[
+64975,
+64975,
+[
+"163-C13"
+]
+],
+[
+65070,
+65071,
+[
+"136-C23"
+]
+],
+[
+65933,
+65933,
+[
+"140-C1"
+]
+],
+[
+65934,
+65934,
+[
+"140-C22"
+]
+],
+[
+65936,
+65946,
+[
+"108-C14"
+]
+],
+[
+65948,
+65948,
+[
+"159-C23"
+]
+],
+[
+66000,
+66045,
+[
+"107-C51"
+]
+],
+[
+66349,
+66350,
+[
+"144-C5"
+]
+],
+[
+66736,
+66771,
+[
+"141-C21"
+]
+],
+[
+66776,
+66811,
+[
+"141-C21"
+]
+],
+[
+67008,
+67059,
+[
+"171-C17"
+]
+],
+[
+67456,
+67461,
+[
+"164-C10",
+"166-C10",
+"166-C11"
+]
+],
+[
+67463,
+67504,
+[
+"164-C10",
+"166-C10",
+"166-C11"
+]
+],
+[
+67506,
+67514,
+[
+"164-C10",
+"166-C10",
+"166-C11"
+]
+],
+[
+67515,
+67519,
+[
+"179-C60"
+]
+],
+[
+67648,
+67669,
+[
+"112-C17"
+]
+],
+[
+67671,
+67679,
+[
+"112-C17"
+]
+],
+[
+67808,
+67826,
+[
+"136-C17"
+]
+],
+[
+67828,
+67829,
+[
+"136-C17"
+]
+],
+[
+67835,
+67839,
+[
+"136-C17"
+]
+],
+[
+67866,
+67867,
+[
+"112-C18"
+]
+],
+[
+67904,
+67912,
+[
+"174-C17",
+"180-C27"
+]
+],
+[
+67913,
+67929,
+[
+"174-C17"
+]
+],
+[
+68028,
+68047,
+[
+"133-C36"
+]
+],
+[
+68050,
+68095,
+[
+"133-C36"
+]
+],
+[
+68148,
+68149,
+[
+"150-C10"
+]
+],
+[
+68168,
+68168,
+[
+"150-C10"
+]
+],
+[
+68224,
+68255,
+[
+"114-C35"
+]
+],
+[
+68352,
+68405,
+[
+"110-C30"
+]
+],
+[
+68409,
+68415,
+[
+"110-C30"
+]
+],
+[
+68416,
+68437,
+[
+"112-C19"
+]
+],
+[
+68440,
+68447,
+[
+"112-C19"
+]
+],
+[
+68448,
+68466,
+[
+"112-C20"
+]
+],
+[
+68472,
+68479,
+[
+"112-C20"
+]
+],
+[
+68608,
+68635,
+[
+"115-C32"
+]
+],
+[
+68636,
+68637,
+[
+"115-C32",
+"117-C19"
+]
+],
+[
+68638,
+68646,
+[
+"115-C32"
+]
+],
+[
+68647,
+68647,
+[
+"115-C32",
+"117-C19"
+]
+],
+[
+68648,
+68653,
+[
+"115-C32"
+]
+],
+[
+68654,
+68654,
+[
+"115-C32",
+"117-C19"
+]
+],
+[
+68655,
+68678,
+[
+"115-C32"
+]
+],
+[
+68864,
+68903,
+[
+"150-C14"
+]
+],
+[
+68912,
+68921,
+[
+"150-C14"
+]
+],
+[
+68928,
+68965,
+[
+"171-C18"
+]
+],
+[
+68969,
+68997,
+[
+"171-C18"
+]
+],
+[
+69006,
+69007,
+[
+"171-C18"
+]
+],
+[
+69216,
+69246,
+[
+"114-C41"
+]
+],
+[
+69248,
+69289,
+[
+"159-C17"
+]
+],
+[
+69291,
+69293,
+[
+"159-C17"
+]
+],
+[
+69296,
+69297,
+[
+"159-C17"
+]
+],
+[
+69314,
+69316,
+[
+"153-C29",
+"172-C3"
+]
+],
+[
+69317,
+69317,
+[
+"153-C29",
+"174-C18"
+]
+],
+[
+69318,
+69318,
+[
+"153-C29",
+"176-C33"
+]
+],
+[
+69319,
+69319,
+[
+"153-C29",
+"179-C48"
+]
+],
+[
+69321,
+69327,
+[
+"153-C29",
+"180-C26"
+]
+],
+[
+69328,
+69328,
+[
+"153-C29",
+"175-C13"
+]
+],
+[
+69329,
+69331,
+[
+"153-C29"
+]
+],
+[
+69332,
+69332,
+[
+"153-C29",
+"180-C25"
+]
+],
+[
+69333,
+69334,
+[
+"153-C29"
+]
+],
+[
+69337,
+69358,
+[
+"180-C22"
+]
+],
+[
+69360,
+69368,
+[
+"180-C26"
+]
+],
+[
+69369,
+69369,
+[
+"180-C22",
+"183-C14"
+]
+],
+[
+69370,
+69370,
+[
+"177-C21"
+]
+],
+[
+69371,
+69371,
+[
+"174-C18"
+]
+],
+[
+69372,
+69372,
+[
+"171-C14"
+]
+],
+[
+69376,
+69415,
+[
+"150-C15"
+]
+],
+[
+69424,
+69465,
+[
+"150-C16"
+]
+],
+[
+69488,
+69513,
+[
+"166-C25"
+]
+],
+[
+69552,
+69579,
+[
+"156-C21"
+]
+],
+[
+69632,
+69709,
+[
+"116-C21"
+]
+],
+[
+69714,
+69743,
+[
+"116-C21"
+]
+],
+[
+69744,
+69744,
+[
+"164-C13"
+]
+],
+[
+69745,
+69749,
+[
+"162-C24"
+]
+],
+[
+69760,
+69820,
+[
+"114-C40"
+]
+],
+[
+69821,
+69821,
+[
+"117-C22"
+]
+],
+[
+69822,
+69823,
+[
+"114-C40"
+]
+],
+[
+69824,
+69825,
+[
+"117-C22"
+]
+],
+[
+69826,
+69826,
+[
+"164-C14"
+]
+],
+[
+69837,
+69837,
+[
+"147-C30"
+]
+],
+[
+69956,
+69958,
+[
+"149-C16"
+]
+],
+[
+69959,
+69959,
+[
+"159-C22"
+]
+],
+[
+70094,
+70094,
+[
+"154-C20"
+]
+],
+[
+70095,
+70095,
+[
+"154-C19"
+]
+],
+[
+70207,
+70207,
+[
+"168-C26"
+]
+],
+[
+70208,
+70208,
+[
+"168-C27"
+]
+],
+[
+70209,
+70209,
+[
+"168-C25"
+]
+],
+[
+70272,
+70278,
+[
+"133-C20"
+]
+],
+[
+70280,
+70280,
+[
+"133-C20"
+]
+],
+[
+70282,
+70285,
+[
+"133-C20"
+]
+],
+[
+70287,
+70301,
+[
+"133-C20"
+]
+],
+[
+70303,
+70313,
+[
+"133-C20"
+]
+],
+[
+70480,
+70480,
+[
+"135-C18"
+]
+],
+[
+70528,
+70537,
+[
+"170-C9"
+]
+],
+[
+70539,
+70539,
+[
+"170-C9"
+]
+],
+[
+70542,
+70542,
+[
+"170-C9"
+]
+],
+[
+70544,
+70581,
+[
+"170-C9"
+]
+],
+[
+70583,
+70592,
+[
+"170-C9"
+]
+],
+[
+70594,
+70594,
+[
+"170-C9"
+]
+],
+[
+70597,
+70597,
+[
+"170-C9"
+]
+],
+[
+70599,
+70602,
+[
+"170-C9"
+]
+],
+[
+70604,
+70609,
+[
+"170-C9"
+]
+],
+[
+70610,
+70611,
+[
+"173-C27"
+]
+],
+[
+70612,
+70613,
+[
+"170-C9"
+]
+],
+[
+70615,
+70616,
+[
+"170-C9"
+]
+],
+[
+70625,
+70626,
+[
+"170-C9"
+]
+],
+[
+70656,
+70745,
+[
+"141-C23"
+]
+],
+[
+70746,
+70746,
+[
+"154-C10"
+]
+],
+[
+70747,
+70747,
+[
+"141-C23"
+]
+],
+[
+70749,
+70749,
+[
+"141-C23"
+]
+],
+[
+70751,
+70751,
+[
+"152-C7"
+]
+],
+[
+70752,
+70753,
+[
+"154-C9"
+]
+],
+[
+71040,
+71093,
+[
+"132-C53"
+]
+],
+[
+71096,
+71113,
+[
+"132-C53"
+]
+],
+[
+71115,
+71116,
+[
+"134-C9"
+]
+],
+[
+71118,
+71121,
+[
+"134-C9"
+]
+],
+[
+71124,
+71124,
+[
+"134-C9"
+]
+],
+[
+71264,
+71276,
+[
+"141-C27"
+]
+],
+[
+71353,
+71353,
+[
+"161-C12"
+]
+],
+[
+71376,
+71395,
+[
+"171-C20"
+]
+],
+[
+71424,
+71449,
+[
+"133-C16"
+]
+],
+[
+71450,
+71450,
+[
+"133-C16",
+"145-C8"
+]
+],
+[
+71453,
+71467,
+[
+"133-C16"
+]
+],
+[
+71472,
+71487,
+[
+"133-C16"
+]
+],
+[
+71488,
+71494,
+[
+"165-C17"
+]
+],
+[
+71739,
+71739,
+[
+"152-C20"
+]
+],
+[
+71936,
+71942,
+[
+"154-C18"
+]
+],
+[
+71945,
+71945,
+[
+"154-C18"
+]
+],
+[
+71948,
+71955,
+[
+"154-C18"
+]
+],
+[
+71957,
+71958,
+[
+"154-C18"
+]
+],
+[
+71960,
+71989,
+[
+"154-C18"
+]
+],
+[
+71991,
+71992,
+[
+"154-C18"
+]
+],
+[
+71995,
+72006,
+[
+"154-C18"
+]
+],
+[
+72016,
+72025,
+[
+"154-C18"
+]
+],
+[
+72192,
+72262,
+[
+"137-C5"
+]
+],
+[
+72263,
+72263,
+[
+"137-C5",
+"146-C10"
+]
+],
+[
+72272,
+72274,
+[
+"137-C5",
+"142-C6"
+]
+],
+[
+72275,
+72352,
+[
+"142-C6"
+]
+],
+[
+72368,
+72383,
+[
+"165-C14"
+]
+],
+[
+72448,
+72457,
+[
+"168-C23"
+]
+],
+[
+72458,
+72458,
+[
+"182-C5"
+]
+],
+[
+72544,
+72551,
+[
+"176-C34"
+]
+],
+[
+72640,
+72659,
+[
+"151-C11"
+]
+],
+[
+72660,
+72660,
+[
+"154-C11"
+]
+],
+[
+72661,
+72673,
+[
+"170-C8"
+]
+],
+[
+72688,
+72697,
+[
+"170-C8"
+]
+],
+[
+72816,
+72847,
+[
+"138-C3"
+]
+],
+[
+72850,
+72871,
+[
+"138-C3"
+]
+],
+[
+72873,
+72886,
+[
+"138-C3"
+]
+],
+[
+73056,
+73061,
+[
+"145-C15"
+]
+],
+[
+73063,
+73064,
+[
+"145-C15"
+]
+],
+[
+73066,
+73102,
+[
+"145-C15"
+]
+],
+[
+73104,
+73105,
+[
+"145-C15"
+]
+],
+[
+73107,
+73112,
+[
+"145-C15"
+]
+],
+[
+73120,
+73129,
+[
+"145-C15"
+]
+],
+[
+73136,
+73179,
+[
+"174-C22"
+]
+],
+[
+73184,
+73193,
+[
+"174-C22"
+]
+],
+[
+73440,
+73464,
+[
+"145-C11"
+]
+],
+[
+73472,
+73488,
+[
+"166-C30"
+]
+],
+[
+73490,
+73530,
+[
+"166-C30"
+]
+],
+[
+73534,
+73561,
+[
+"166-C30"
+]
+],
+[
+73562,
+73562,
+[
+"173-C28"
+]
+],
+[
+73648,
+73648,
+[
+"158-C11"
+]
+],
+[
+73664,
+73713,
+[
+"151-C18"
+]
+],
+[
+73727,
+73727,
+[
+"151-C18"
+]
+],
+[
+74863,
+74863,
+[
+"182-C3"
+]
+],
+[
+74869,
+74879,
+[
+"182-C3"
+]
+],
+[
+75088,
+75398,
+[
+"181-C31"
+]
+],
+[
+78896,
+78898,
+[
+"146-C16"
+]
+],
+[
+78902,
+78902,
+[
+"152-C27"
+]
+],
+[
+78944,
+82937,
+[
+"176-C29"
+]
+],
+[
+82944,
+83526,
+[
+"136-C18"
+]
+],
+[
+92784,
+92784,
+[
+"166-C29"
+]
+],
+[
+92862,
+92862,
+[
+"166-C29"
+]
+],
+[
+92864,
+92873,
+[
+"166-C29"
+]
+],
+[
+93053,
+93071,
+[
+"136-C8"
+]
+],
+[
+93504,
+93561,
+[
+"171-C13"
+]
+],
+[
+93760,
+93850,
+[
+"147-C41"
+]
+],
+[
+93856,
+93880,
+[
+"179-C45"
+]
+],
+[
+93883,
+93907,
+[
+"179-C45"
+]
+],
+[
+94180,
+94180,
+[
+"156-C17"
+]
+],
+[
+94194,
+94195,
+[
+"178-C27"
+]
+],
+[
+94196,
+94198,
+[
+"179-C44"
+]
+],
+[
+94208,
+100335,
+[
+"138-C1"
+]
+],
+[
+100338,
+100343,
+[
+"153-C12"
+]
+],
+[
+100344,
+100351,
+[
+"177-C28"
+]
+],
+[
+100352,
+101104,
+[
+"142-C2"
+]
+],
+[
+101107,
+101113,
+[
+"156-C15"
+]
+],
+[
+101120,
+101589,
+[
+"150-C20",
+"156-C17"
+]
+],
+[
+101590,
+101594,
+[
+"150-C20",
+"184-C5"
+]
+],
+[
+101631,
+101631,
+[
+"150-C20",
+"175-C15"
+]
+],
+[
+101641,
+101660,
+[
+"177-C28"
+]
+],
+[
+101661,
+101662,
+[
+"181-C32"
+]
+],
+[
+101663,
+101663,
+[
+"183-C7"
+]
+],
+[
+101664,
+101664,
+[
+"184-C4"
+]
+],
+[
+101760,
+101761,
+[
+"177-C28"
+]
+],
+[
+101762,
+101773,
+[
+"177-C27"
+]
+],
+[
+101774,
+101874,
+[
+"177-C27",
+"179-C53"
+]
+],
+[
+101888,
+102801,
+[
+"180-C28",
+"184-C7"
+]
+],
+[
+102816,
+102866,
+[
+"180-C29"
+]
+],
+[
+110576,
+110579,
+[
+"166-C31"
+]
+],
+[
+110581,
+110587,
+[
+"166-C31"
+]
+],
+[
+110589,
+110590,
+[
+"166-C31"
+]
+],
+[
+110879,
+110882,
+[
+"162-C20"
+]
+],
+[
+110883,
+110885,
+[
+"180-C6"
+]
+],
+[
+110886,
+110886,
+[
+"182-C31"
+]
+],
+[
+110887,
+110888,
+[
+"184-C38"
+]
+],
+[
+110952,
+110952,
+[
+"183-C54"
+]
+],
+[
+117974,
+117999,
+[
+"170-C15"
+]
+],
+[
+118448,
+118451,
+[
+"170-C17"
+]
+],
+[
+118464,
+118480,
+[
+"177-C32"
+]
+],
+[
+118496,
+118511,
+[
+"177-C34"
+]
+],
+[
+118513,
+118517,
+[
+"183-C12"
+]
+],
+[
+118518,
+118525,
+[
+"185-C32"
+]
+],
+[
+118528,
+118573,
+[
+"160-C3"
+]
+],
+[
+118576,
+118598,
+[
+"160-C3"
+]
+],
+[
+118608,
+118723,
+[
+"160-C3"
+]
+],
+[
+119079,
+119080,
+[
+"178-C36"
+]
+],
+[
+119081,
+119081,
+[
+"105-C25"
+]
+],
+[
+119273,
+119274,
+[
+"164-C17"
+]
+],
+[
+119275,
+119286,
+[
+"178-C37"
+]
+],
+[
+119287,
+119294,
+[
+"178-C31",
+"180-C38"
+]
+],
+[
+119295,
+119295,
+[
+"178-C36"
+]
+],
+[
+119376,
+119381,
+[
+"180-C39"
+]
+],
+[
+119382,
+119383,
+[
+"180-C40"
+]
+],
+[
+119384,
+119384,
+[
+"180-C40",
+"183-C21"
+]
+],
+[
+119385,
+119386,
+[
+"180-C40"
+]
+],
+[
+119387,
+119390,
+[
+"181-C39"
+]
+],
+[
+119391,
+119391,
+[
+"181-C39",
+"183-C22"
+]
+],
+[
+119392,
+119392,
+[
+"181-C38"
+]
+],
+[
+119393,
+119393,
+[
+"182-C11"
+]
+],
+[
+119394,
+119423,
+[
+"182-C10"
+]
+],
+[
+119424,
+119425,
+[
+"183-C13"
+]
+],
+[
+119488,
+119507,
+[
+"167-C7"
+]
+],
+[
+119666,
+119666,
+[
+"146-C17"
+]
+],
+[
+119670,
+119670,
+[
+"146-C17"
+]
+],
+[
+120832,
+121483,
+[
+"133-C34"
+]
+],
+[
+121499,
+121503,
+[
+"133-C34"
+]
+],
+[
+121505,
+121519,
+[
+"133-C34"
+]
+],
+[
+122655,
+122660,
+[
+"179-C55"
+]
+],
+[
+122661,
+122666,
+[
+"169-C6"
+]
+],
+[
+122667,
+122668,
+[
+"179-C55"
+]
+],
+[
+122669,
+122682,
+[
+"179-C59"
+]
+],
+[
+122683,
+122685,
+[
+"180-C35",
+"181-C45"
+]
+],
+[
+122686,
+122687,
+[
+"180-C37"
+]
+],
+[
+122688,
+122710,
+[
+"181-C33"
+]
+],
+[
+122711,
+122713,
+[
+"182-C8"
+]
+],
+[
+122714,
+122726,
+[
+"182-C6"
+]
+],
+[
+122727,
+122727,
+[
+"182-C9"
+]
+],
+[
+122728,
+122753,
+[
+"182-C7"
+]
+],
+[
+122829,
+122831,
+[
+"182-C8"
+]
+],
+[
+122832,
+122832,
+[
+"181-C35"
+]
+],
+[
+122833,
+122833,
+[
+"181-C36"
+]
+],
+[
+122834,
+122839,
+[
+"181-C33"
+]
+],
+[
+122840,
+122856,
+[
+"180-C37"
+]
+],
+[
+122857,
+122866,
+[
+"180-C36"
+]
+],
+[
+122867,
+122868,
+[
+"180-C34"
+]
+],
+[
+122869,
+122873,
+[
+"180-C33"
+]
+],
+[
+122874,
+122879,
+[
+"180-C32"
+]
+],
+[
+122928,
+122986,
+[
+"168-C19"
+]
+],
+[
+122987,
+122988,
+[
+"168-C20"
+]
+],
+[
+122989,
+122989,
+[
+"170-C6"
+]
+],
+[
+123023,
+123023,
+[
+"170-C6"
+]
+],
+[
+123136,
+123180,
+[
+"151-C7"
+]
+],
+[
+123184,
+123197,
+[
+"151-C7"
+]
+],
+[
+123200,
+123209,
+[
+"151-C7"
+]
+],
+[
+123214,
+123215,
+[
+"151-C7"
+]
+],
+[
+123536,
+123566,
+[
+"152-C17",
+"161-C10"
+]
+],
+[
+123584,
+123641,
+[
+"152-C17"
+]
+],
+[
+123647,
+123647,
+[
+"152-C17"
+]
+],
+[
+124112,
+124153,
+[
+"167-C6"
+]
+],
+[
+124368,
+124410,
+[
+"173-C26"
+]
+],
+[
+124415,
+124415,
+[
+"173-C26"
+]
+],
+[
+124608,
+124638,
+[
+"174-C23"
+]
+],
+[
+124640,
+124661,
+[
+"174-C23"
+]
+],
+[
+124670,
+124670,
+[
+"174-C23",
+"176-C38"
+]
+],
+[
+124671,
+124671,
+[
+"174-C23"
+]
+],
+[
+124896,
+124902,
+[
+"166-C24"
+]
+],
+[
+124904,
+124907,
+[
+"166-C24"
+]
+],
+[
+124909,
+124910,
+[
+"166-C24"
+]
+],
+[
+124912,
+124926,
+[
+"166-C24"
+]
+],
+[
+125184,
+125258,
+[
+"141-C20"
+]
+],
+[
+125259,
+125259,
+[
+"141-C20",
+"157-C12"
+]
+],
+[
+125264,
+125273,
+[
+"141-C20"
+]
+],
+[
+125278,
+125279,
+[
+"141-C20"
+]
+],
+[
+126065,
+126132,
+[
+"145-C32"
+]
+],
+[
+126209,
+126269,
+[
+"153-C30"
+]
+],
+[
+127245,
+127245,
+[
+"154-C21"
+]
+],
+[
+127340,
+127340,
+[
+"151-C13"
+]
+],
+[
+127341,
+127343,
+[
+"154-C21"
+]
+],
+[
+127406,
+127406,
+[
+"181-C40"
+]
+],
+[
+127547,
+127547,
+[
+"145-C30"
+]
+],
+[
+127584,
+127589,
+[
+"141-C28"
+]
+],
+[
+127993,
+127994,
+[
+"141-C19"
+]
+],
+[
+127995,
+127999,
+[
+"140-C28"
+]
+],
+[
+128335,
+128335,
+[
+"134-C3"
+]
+],
+[
+128579,
+128580,
+[
+"141-C19"
+]
+],
+[
+128723,
+128724,
+[
+"145-C21"
+]
+],
+[
+128728,
+128728,
+[
+"181-C5"
+]
+],
+[
+128884,
+128886,
+[
+"170-C11"
+]
+],
+[
+128887,
+128890,
+[
+"177-C32"
+]
+],
+[
+128891,
+128895,
+[
+"170-C10"
+]
+],
+[
+128985,
+128985,
+[
+"168-C30"
+]
+],
+[
+128986,
+128986,
+[
+"181-C40"
+]
+],
+[
+128987,
+128987,
+[
+"184-C19"
+]
+],
+[
+129009,
+129023,
+[
+"184-C19"
+]
+],
+[
+129200,
+129201,
+[
+"158-C15"
+]
+],
+[
+129202,
+129202,
+[
+"170-C17"
+]
+],
+[
+129216,
+129217,
+[
+"176-C36",
+"177-C37"
+]
+],
+[
+129238,
+129238,
+[
+"178-C1"
+]
+],
+[
+129280,
+129291,
+[
+"144-C13"
+]
+],
+[
+129296,
+129304,
+[
+"141-C19"
+]
+],
+[
+129320,
+129320,
+[
+"146-C23"
+]
+],
+[
+129370,
+129374,
+[
+"145-C33"
+]
+],
+[
+129375,
+129378,
+[
+"146-C23"
+]
+],
+[
+129408,
+129410,
+[
+"141-C19"
+]
+],
+[
+129424,
+129425,
+[
+"145-C33"
+]
+],
+[
+129536,
+129619,
+[
+"151-C8"
+]
+],
+[
+129620,
+129623,
+[
+"178-C35"
+]
+],
+[
+129648,
+129651,
+[
+"155-C18"
+]
+],
+[
+129656,
+129658,
+[
+"155-C18"
+]
+],
+[
+129664,
+129666,
+[
+"155-C18"
+]
+],
+[
+129673,
+129673,
+[
+"177-C2"
+]
+],
+[
+129674,
+129674,
+[
+"181-C5"
+]
+],
+[
+129678,
+129678,
+[
+"181-C5"
+]
+],
+[
+129679,
+129679,
+[
+"177-C2"
+]
+],
+[
+129680,
+129685,
+[
+"155-C18"
+]
+],
+[
+129726,
+129726,
+[
+"177-C2"
+]
+],
+[
+129734,
+129734,
+[
+"177-C2"
+]
+],
+[
+129736,
+129736,
+[
+"181-C5"
+]
+],
+[
+129741,
+129741,
+[
+"181-C5"
+]
+],
+[
+129756,
+129756,
+[
+"177-C2"
+]
+],
+[
+129759,
+129759,
+[
+"177-C2"
+]
+],
+[
+129769,
+129769,
+[
+"177-C2"
+]
+],
+[
+129770,
+129770,
+[
+"181-C5"
+]
+],
+[
+129775,
+129775,
+[
+"181-C5"
+]
+],
+[
+173824,
+177972,
+[
+"115-C21"
+]
+],
+[
+178208,
+183969,
+[
+"136-C29"
+]
+],
+[
+183970,
+183981,
+[
+"183-C55"
+]
+],
+[
+183984,
+191456,
+[
+"148-C7"
+]
+],
+[
+191472,
+192074,
+[
+"175-C10",
+"176-C1"
+]
+],
+[
+192075,
+192093,
+[
+"176-C1"
+]
+],
+[
+201552,
+205743,
+[
+"169-C12"
+]
+],
+[
+205744,
+210041,
+[
+"180-C1"
+]
+],
+[
+249856,
+261183,
+[
+"185-C3"
+]
+]
+],
+"titles": {
+"L2/05-008": "Proposal for encoding the Balinese script (= WG2 N2908) Michael Everson, I Made Suatjana 2005-01-25",
+"L2/05-029": "Proposal to encode additional Latin orthographic characters for Uighur (WG2 N2931) Lorna Priest 2005-01-26",
+"L2/05-059": "WG2 Consent Docket, Part 2: Unicode 5.0 Issues Ken Whistler 2005-02-03",
+"L2/05-090": "Proposed Balinese Character Properties Rick McGowan 2005-04-14",
+"L2/05-091": "Proposed Balinese Line-Breaking Classes Rick McGowan 2005-04-14",
+"L2/05-098": "Proposal to add Greek epigraphical characters to the UCS (executive summary of L2/05-002 and L2/05-003 ) Nick Nicholas 2005-04-25",
+"L2/05-158": "Proposal for encoding the Lepcha Script (WG2 N2947) Michael Everson 2005-06-15",
+"L2/05-164": "Evidence for the correct symbols used for zero,10,100,1000 and fractions in Malayalam (4MB) K.G.Sulochana 2005-07-08",
+"L2/05-165": "Proposal to change the glyph of Malayalam Digit Zero Kerala State IT Mission (P. Sreekumar) 2005-07-05",
+"L2/05-173": "Malayalam related topics (PRI #71) Cibu C Johny 2005-07-21",
+"L2/05-175": "Proposal to includes Malayalam Numbers as distinct characters Kerala State IT Mission (P. Sreekumar) 2005-07-29",
+"L2/05-222": "Final revised proposal to encode the Saurashtra script (WG2 N2969) Michael Everson, J. C. Krishnamoorty 2005-08-08",
+"L2/05-243": "Final proposal to encode the Ol Chiki script (WG2 N2984) Michael Everson 2005-09-08",
+"L2/05-258": "Defect report and proposal to add one musical multiple rest character (WG2 N2983) Patrick Andries 2005-09-21",
+"L2/05-270": "WG2 Consent Docket (Sophia Antipolis) Ken Whistler 2005-09-22",
+"L2/05-300": "Request for Egyptian transliteration characters as provided in N2241: Proposal to add 6 Egyptological characters to the UCS by Michael Everson Deborah Anderson 2005-10-13",
+"L2/05-309R": "Proposal for addition of characters to Malayalam Block (revised) R. Chitrajakumar 2005-10-31",
+"L2/05-344": "Proposed changes to Gurmukhi 3 Sukhjinder Sidhu 2005-10-27",
+"L2/05-346": "Proposal to encode three archaic Tibetan characters (WG2 N3012) Andrew West 2005-10-27",
+"L2/06-002": "Proposal for encoding the Sundanese script Michael Everson 2006-01-11",
+"L2/06-004": "Preliminary proposal for encoding the Kayah Li script Michael Everson 2006-01-12",
+"L2/06-013": "Proposal to encode one Manchu ali gali letter \"lha\" Andrew West 2006-01-23",
+"L2/06-027": "Proposal to add Medievalist characters to the UCS Michael Everson 2006-01-30",
+"L2/06-036": "Proposal to encode characters for Ordbok över Finlands svenska folkmål Erkki I. Kolehmainen, et al 2006-01-30",
+"L2/06-037": "Proposal to encode Gurmukhi Sign Yakash (revised 2006/04/07) Sukhjinder Sidhu 2006-01-30",
+"L2/06-040": "Proposal to add old Cyrillic titlo-letters to the UCS Alexey Kryukov, Vladislav Dorosh 2006-01-30",
+"L2/06-044": "Proposal to encode two archaic Tibetan punctuation marks (WG2 N3033) - see also L2/05-346 ; this splits and revises that proposal) Andrew West 2006-01-30",
+"L2/06-054": "Proposal for the Addition of Math Characters Asmus Freytag, et al 2006-02-06",
+"L2/06-073R": "Proposal for encoding the Kayah Li script in the BMP (WG2 N3038R) Michael Everson 2006-03-09",
+"L2/06-095": "Proposal for encoding the Phaistos Disc characters (WG2 N3066) Michael Everson, John Jenkins 2006-04-01",
+"L2/06-120R": "Proposal for addition of Vai characters (WG2 N3081R, revised) Michael Everson 2006-04-12",
+"L2/06-121": "Revised proposal to add Mayanist Latin letters (WG2 N3082) Michael Everson 2006-04-12",
+"L2/06-125": "Diverse Arabic Mathematical Symbols (WG2 N3086, N3086-1) Azzeddine Lazrek 2006-04-12",
+"L2/06-137": "Proposal to encode Devanagari Sign High Spacing Dot Jonathan Kew 2006-04-21",
+"L2/06-139": "Proposal for encoding the Rejang script in the BMP (WG2 N3096) Michael Everson 2006-04-22",
+"L2/06-147": "Summary of repertoire for second PDAM 3 of ISO/IEC 10646 (WG2 N3059) Asmus Freytag / WG2 2006-04-28",
+"L2/06-149": "Proposal to add characters needed for Khowar, Torwali, and Burushaski Elena Bashir, et al 2006-05-09",
+"L2/06-171": "Proposal to add some Western Astrology Symbols to the UCS David Faulks 2006-05-09",
+"L2/06-184": "Proposal to add Tamil Om INFITT 2006-05-10",
+"L2/06-187": "WG2 Consent Docket - WG2 Meeting #48 Ken Whistler 2006-05-11",
+"L2/06-207": "Malayalam Chillaksharam Eric Muller 2006-05-16",
+"L2/06-212": "Proposed additions to the CJK Strokes block of the UCS (WG2 N3063) Lu Qin 2006-05-17",
+"L2/06-234": "Proposal to Add Ancient Roman Weights and Monetary Signs (replaces L2/06-173 ) David Perry 2006-07-28",
+"L2/06-244": "Proposal to Encode Modifier Letter Low Circumflex Accent Lorna Priest 2006-07-27",
+"L2/06-245": "Propososal to encode Samaritan Text symbol SBL (John Hudson, et al) 2006-07-27",
+"L2/06-249": "One additional Myanmar character for Mon for PDAM 3.2 (WG2 N3115) Michael Everson, Martin Hosken 2006-07-28",
+"L2/06-250": "Proposal to add eighteen characters for Telugu to the BMP (WG2 N3116) Michael Everson, et al 2006-07-28",
+"L2/06-257": "Proposal for encoding the Cham script in the BMP (WG2 N3120) Michael Everson 2006-08-01",
+"L2/06-266": "Proposal to add Latin letters and a Greek symbol (WG2 N3122) Michael Everson 2006-08-01",
+"L2/06-291": "Rumi Numeral System Symbols (revised; see also L2/06-126 ) Azzeddine Lazrek 2006-08-07",
+"L2/06-338": "Proposal to encode one Bopomofo character (WG2 N3179) Michael Everson, et al 2006-10-23",
+"L2/06-351": "WG2 Consent Docket Ken Whistler 2006-11-06",
+"L2/07-003": "Proposal to encode additional Cyrillic characters in the BMP (WG2 N3194) revised SEI / Michael Everson, et al 2007-01-12",
+"L2/07-004": "Proposal to add Medievalist and Iranianist punctuation characters to the UCS (WG2 N3193) SEI / Michael Everson, et al) 2007-01-12",
+"L2/07-006": "Revised proposal to encode the Avestan script in the SMP (WG2 N3197) revised SEI / Michael Everson 2007-01-12",
+"L2/07-011R": "29 Additional Mathematical and Symbol Characters (WG2 N3198) Asmus Freytag, Barbara Beeton, et al 2007-01-15",
+"L2/07-027": "Encoded Representation of Devanagari Candra A Peter Constable 2007-01-26",
+"L2/07-067": "Addition of seven CJK Unified Ideographs (revised) Ken Lunde, Eric Muller 2007-02-07",
+"L2/07-192": "Proposal to Encode the Ganda Currency Mark for Bengali (revised) Anshuman Pandey 2007-10-11",
+"L2/07-197": "Preliminary proposal for encoding the Imperial Aramaic script (Revision 2) Michael Everson 2007-07-25",
+"L2/07-206": "Proposal to add two numbers for the Phoenician script (WG2 N3284) Michael Everson 2007-07-25",
+"L2/07-207": "Proposal for encoding the Inscriptional Parthian, Inscriptional Pahlavi, and Psalter Pahlavi scripts (revision, WG2 N3286R) Michael Everson, Roozbeh Pournader 2007-07-25",
+"L2/07-235": "Character and line-breaking properties for Rumi Numeral Symbols Azzeddine Lazrek 2007-07-30",
+"L2/07-258": "Middle Dots and Don'ts Ken Whistler 2007-08-05",
+"L2/07-260": "Non-blank spaces Asmus Freytag 2007-08-07",
+"L2/07-283": "Proposal to add three characters for Malayalam to the BMP Michael Everson 2007-08-16",
+"L2/07-332": "Proposal to encode the Livre Tournois sign in the UCS (WG2 N3387) David R. Sewell 2007-09-24",
+"L2/07-334": "Proposal to encode two phonetic characters and two Shona characters (revised) Lorna Priest 2007-10-17",
+"L2/07-343": "Proposal to encode 55 characters for Vedic Sanskrit in the BMP Michael Everson, Peter Scharf, et al 2007-10-18",
+"L2/07-387": "Proposal to encode six CJK Ideographs in UCS Japan N.B. 2007-10-17",
+"L2/07-418": "Proposal to Encode the Kaithi Script (WG2 N3389) Anshuman Pandey 2007-12-17",
+"L2/08-015": "Proposal for encoding the Javanese script in the UCS (revised; WG2 N3319R3, replaces L2/07-295R ) Indonesia, SEI, et al 2008-03-07",
+"L2/08-019": "Revised Proposal to encode Old Lisu (replaces L2/07-344 ) China NB / Adrian Cheuk 2008-01-28",
+"L2/08-024": "Proposal to add the Samaritan alphabet to the BMP (WG2 N3377) SEI / Michael Everson 2008-01-28",
+"L2/08-030": "Proposal to encode the character \"subscript ten\" (revised) Leonid Broukhis 2008-02-13",
+"L2/08-044": "Proposal to encode Old South Arabian Script SEI / Kamal Mansour, et al 2008-01-28",
+"L2/08-071": "Proposal for encoding the Old Turkic script in the SMP (WG2 N3357R2, replaces L2/07-325R ) SEI / Michael Everson 2008-01-28",
+"L2/08-110": "South Asia Subcommittee Report Eric Muller 2008-02-08",
+"L2/08-116": "Proposal to encode the Kazakh tenge sign (WG2 N3392) Michael Everson 2008-03-07",
+"L2/08-179": "Result of Repertoire Review for PDAM6.2 of ISO/IEC 10646:2003 and future amendments (WG2 N3466) Michael Everson 2008-04-28",
+"L2/08-181": "Proposal to add Khamti Shan Characters to the Myanmar Blocks (WG2 N3423) Martin Hosken 2008-04-28",
+"L2/08-198": "Proposal to encode additional Tifinagh characters (revised; WG2 N3482) Lorna Priest, Jon Coblentz 2008-07-28",
+"L2/08-198R": "Proposal to encode additional Tifinagh characters (revised; WG2 N3482) Lorna Priest, Jon Coblentz 2008-07-28",
+"L2/08-205": "WG2 Consent Docket Ken Whistler 2008-05-06",
+"L2/08-227": "CJK Extension C Repertoire Michel Suignard 2008-05-15",
+"L2/08-270R": "Proposal for encoding the Mandaic script (WG2 N3485) SEI / Michael Everson 2008-08-04",
+"L2/08-273R": "Proposal to encode two characters for Vedic (revised; WG2 N3488R3) Michael Everson, Peter Scharf 2008-08-26",
+"L2/08-277R": "Progressing the encoding of Brahmi in the SMP (WG2 N3490R) Michael Everson 2008-08-08",
+"L2/08-317": "South Asia Subcommittee Report Eric Muller 2008-08-12",
+"L2/08-372": "Revised proposal for Six urgently needed characters submitted for inclusion (WG2 N3513) Hong Kong SAR 2008-10-21",
+"L2/08-397": "WG2 Consent Docket Ken Whistler 2008-10-29",
+"L2/08-404": "Proposal to encode four Latin letters Karl Pentzlin 2008-11-02",
+"L2/12-016": "Proposal to encode 0C5A TELUGU LETTER RRRA (WG2 N4215) Shriramana Sharma, et al 2012-01-23",
+"L2/12-044R": "Second revised proposal to encode four historic Latin letters for Sakha (Yakut) (replaces L2/11-340; WG2 N4213 ) Ilya Yevlampiev, et al 2012-05-04",
+"L2/12-123R": "Proposal to Encode the Sign SIDDHAM for Devanagari (revised) Anshuman Pandey 2012-10-29",
+"L2/12-206": "Proposal for encoding Meroitic numbers in the SMP (WG2 N4276) SEI / Everson 2012-06-11",
+"L2/12-212": "US/Unicode Extension F Submission Plan Ken Lunde 2012-06-19",
+"L2/12-234R": "Proposal to Encode the Siddham Script (revised) Anshuman Pandey 2012-08-01",
+"L2/12-242": "Proposal for one historic currency character, MARK SIGN Nina Marie Evensen, Deborah Anderson 2012-07-24",
+"L2/12-266": "Proposal for Two Phonetic Characters (revised) Luanne von Schneidemesser, et al 2012-07-31",
+"L2/12-270": "Proposal for the addition of ten Latin characters (WG2 N4297) Michael Everson, et al 2012-07-26",
+"L2/12-303": "Proposal to add four arrows to get a consistent mapping from ISO/IEC 9995-7 symbols to Unicode (WG2 N4318) Karl Pentzlin 2012-10-08",
+"L2/12-309R": "Revised Proposal to add the Ahom Script in the SMP (revised; WG2 N4321R) Martin Hosken 2012-10-23",
+"L2/12-316": "Proposal to Encode the Multani Script Anshuman Pandey 2012-09-27",
+"L2/12-321": "Proposal for encoding Sutton SignWriting (WG2 N4342) Michael Everson, et al 2012-10-16",
+"L2/12-323": "Proposal to encode section marks for Siddham (WG2 N4336) Anshuman Pandey 2012-10-12",
+"L2/12-344": "WG2 Consent Docket Ken Whistler 2012-11-02",
+"L2/12-357": "Draft additional repertoire for ISO/IEC 10646:2014 (4th edition) Michel Suignard 2012-11-04",
+"L2/12-359": "Proposal to Encode Bowl of Hygieia stas624-uni@yahoo.com 2012-11-02",
+"L2/13-008": "Proposal to Encode An Outstanding Early Cyrillic Character in Unicode Yuri Shardt, et al 2013-01-22",
+"L2/13-033": "Additional information on Siddham Section marks (revised ; WG2 N4391) Bill Eidsun 2013-01-30",
+"L2/13-054": "Proposal to encode Duodecimal Digit Forms Karl Pentzlin 2013-04-01",
+"L2/13-056": "Proposal to Encode the Sign JAIN OM for Devanagari (WG2 N4408) Anshuman Pandey 2013-04-26",
+"L2/13-062": "Proposal to encode 11350 Grantha Om Shriramana Sharma 2013-04-09",
+"L2/13-063": "Proposal to encode MALAYALAM LETTER CHILLU LLL (revised) Cibu Johny 2013-05-17",
+"L2/13-130": "Proposal to encode three Arabic characters for Arwi Roozbeh Pournader 2013-06-25",
+"L2/13-139": "Proposal to Encode Combining Half Marks Used for Cyrillic Supralineation Aleksandr Andreev, et al 2013-07-08",
+"L2/13-143": "Proposal to encode Gujarati Letter ZHA Vinodh Rajan 2013-07-18",
+"L2/13-150": "Draft repertoire for FDAM2 of ISO/IEC 10646:2012 (3rd edition) (WG2 N4458) Michel Suignard 2013-07-18",
+"L2/13-151": "Draft additional repertoire for ISO/IEC 10646:2014 (4th edition) (WG2 N4459) Michel Suignard 2013-07-18",
+"L2/13-154": "WG2 Consent Docket Ken Whistler 2013-07-23",
+"L2/13-197": "Final proposal to encode the Marchen script in the SMP Andrew West 2013-10-28",
+"L2/13-198": "Revised Proposal to Encode the Mongolian Square Script Anshuman Pandey 2013-10-28",
+"L2/14-003": "Proposal to encode 0D00 MALAYALAM SIGN COMBINING ANUSVARA ABOVE Shriramana Sharma 2014-01-06",
+"L2/14-015R": "Proposal to encode MALAYALAM SIGN VERTICAL BAR VIRAMA (revised) Cibu Johny 2015-01-19",
+"L2/14-023": "Proposal to encode the Tangut script (27MB ; WG2 N4522) Andrew West, et al 2014-01-23",
+"L2/14-105": "Proposal to encode fourteen Pakistani Quranic marks Roozbeh Pournader 2014-04-30",
+"L2/14-153": "Proposal to encode Kannada Sign Spacing Candrabindu Vinodh Rajan 2014-07-18",
+"L2/14-156": "Proposal to encode GREEK BYZANTINE INDICTION SIGN Dumbarton Oaks (Joel Kalvesmaki) 2014-07-18",
+"L2/14-157": "Proposal to encode GREEK BYZANTINE DOUBLE SUSPENSION MARK Dumbarton Oaks (Joel Kalvesmaki) 2014-07-18",
+"L2/14-158": "Proposal to encode GREEK BYZANTINE NOMISMA SIGN Dumbarton Oaks (Joel Kalvesmaki) 2014-07-18",
+"L2/14-161": "Adding Georgian Lari currency sign Giorgi Shermazanashvili 2014-07-21",
+"L2/14-163": "Proposal to encode Saurashtra Sign Candrabindu Vinodh Rajan 2014-07-21",
+"L2/14-170": "Recommendations to UTC #140 August 2014 on Script Proposals Deborah Anderson, et al 2014-07-30",
+"L2/14-196": "Proposal to Encode Additional Cyrillic Characters used in Early Church Slavonic Printed Books (replaces L2/13-153) Aleksandr Andreev, et al 2014-08-06",
+"L2/14-207": "Implications of the Unicode Arabic model for the Warsh orthography (revised) Roozbeh Pournader 2014-08-08",
+"L2/14-213": "Skin tone modifier symbols Unicode, Inc / Peter Edberg, et al 2014-09-11",
+"L2/14-214": "Final proposal to encode the Osage script (WG2 N4619) Michael Everson 2014-09-25",
+"L2/14-219R": "Revised Proposal for encoding the Adlam script in the SMP (WG2 N4488) Michael Everson 2014-10-29",
+"L2/14-228": "Proposal to encode Tangut radicals in the UCS (WG2 N4636 ; 26MB) Andrew West, et al 2014-10-03",
+"L2/14-271": "Draft additional repertoire Amendment 2 (pdam2.1) to ISO/IEC 10646:2014 (4th edition) (WG2 N4637) Michel Suignard 2014-10-24",
+"L2/14-278R": "Six New Symbols from Chinese Folk Religion (revised) Shervin Afshar, Roozbeh Pournader 2015-01-19",
+"L2/14-284R": "Emoji-System Compatibility Additions Peter Edberg, Mark Davis 2014-10-28",
+"L2/14-285": "Towards a Consensus Encoding of Newa (revision 3) Ken Whistler 2014-12-12",
+"L2/14-285R": "Towards a Consensus Encoding of Newa (revision 3) Ken Whistler 2014-12-12",
+"L2/15-004": "Proposal to Encode the Soyombo Script (WG2 N4655 ; revised) Anshuman Pandey 2015-12-07",
+"L2/15-020": "Disposition of comments on PDAM2.2 to ISO/IEC 10646 4th edition (WG2 N4656) Michel Suignard 2015-01-27",
+"L2/15-031": "International symbol for an observer (revised) Simon Griffee 2015-01-29",
+"L2/15-045": "Recommendations to UTC #142 February 2015 on Script Proposals Deborah Anderson, et al 2015-02-01",
+"L2/15-083": "Proposal for addition of Group Mark symbol Ken Shirriff 2015-02-20",
+"L2/15-121R2": "Proposal to Encode Indic Siyaq Numbers (revised) Anshuman Pandey 2015-10-08",
+"L2/15-160": "Proposal to encode 1CF7 VEDIC SIGN ATIKRAMA (revised) Shriramana Sharma 2015-07-31",
+"L2/15-161": "Proposal to encode 09CF BENGALI LETTER VEDIC ANUSVARA (revised) Shriramana Sharma 2015-07-31",
+"L2/15-172": "Proposal to Encode an Abbreviation Sign for Bengali (revised) Srinidhi 2015-08-11",
+"L2/15-173R2": "Proposal to Encode some Additional Symbols used in Church Slavonic Text (revised) Aleksandr Andreev, et al 2015-07-29",
+"L2/15-181": "Proposal for the addition of three Old Italic characters (revised; WG2 N4669R) Michael Everson 2015-07-28",
+"L2/15-229": "Proposal for addition of bitcoin sign Ken Shirriff 2015-10-03",
+"L2/15-233": "Proposal to encode the Makasar script (supersedes L2/15-179 Anshuman Pandey 2015-10-07",
+"L2/15-235": "Proposal to encode the Gunjala Gondi script Anshuman Pandey 2015-11-03",
+"L2/15-267R": "Preliminary proposal to add more food emoji characters (revised) Hiroyuki Komatsu / Emoji SC 2015-11-04",
+"L2/15-270": "WG2 Consent Docket Ken Whistler 2015-11-04",
+"L2/15-272": "Proposal to add one extra character to the Ahom Block Martin Hosken 2015-10-26",
+"L2/15-342": "Proposal to Encode a Subjoiner for Zanabazar Square Anshuman Pandey 2015-12-29",
+"L2/16-018R": "Proposal to encode three control characters for Egyptian Hieroglyphs (revised) Bob Richmond, Andrew Glass 2016-01-27",
+"L2/16-044": "Proposal to encode Quranic marks used in Quran published in Libya with Commentary (supersedes L2/15-329) Mussa A. A. Abudena 2016-01-27",
+"L2/16-045": "Consolidated proposal for new emoji, Jan 2016 Emoji SC / Peter Edberg 2016-01-27",
+"L2/16-046": "Proposal to encode five ideographic tally marks Ken Lunde 2016-01-27",
+"L2/16-064": "Extra Symbols from Uranian Astrology (revised) David Faulks 2016-08-15",
+"L2/16-067": "Astrological Plutos (revised) David Faulks 2016-08-15",
+"L2/16-080R": "Additional Symbols for Astrology (revised) David Faulks 2016-05-31",
+"L2/16-081": "Revised proposal for the addition of Georgian characters Michael Everson 2016-05-03",
+"L2/16-097R": "Proposal to encode Kaithi Number Sign Above (revised) SEI / Benjamin Yang 2016-05-11",
+"L2/16-101": "Proposal for encoding the Medefaidrin (Oberi Okaime) script in the SMP (replaces L2/16-020) Andrij Rovenchak, et al 2016-05-02",
+"L2/16-170": "Draft additional repertoire for ISO/IEC 10646:2016 (5th edition) DIS (WG2 N4728) Michel Suignard 2016-06-10",
+"L2/16-173": "Eris and Sedna Symbols (revised) David Faulks 2016-11-15",
+"L2/16-209": "Proposal to Encode an Abbreviation Sign for Gurmukhi (revised) Srinidhi A, Sridatta A 2016-08-15",
+"L2/16-220": "Proposal for Medieval Comma Michael Everson, Deborah Anderson, et al 2016-08-01",
+"L2/16-235": "Proposal to encode PARAGRAPHUS and PUNCTUS ELEVATUS Michael Everson, Deborah Anderson, et al 2016-08-05",
+"L2/16-254": "Final proposal to encode four half star symbols (WG2 N4747; replaces L2/16-186 and L2/16-230) Ken Shirriff, Andrew West 2016-09-12",
+"L2/16-271": "Khitan Small Script code chart based on the ad-hoc in San Jose Michael Everson 2016-09-29",
+"L2/16-298": "Draft additional repertoire for ISO/IEC 10646:2016 (5th ed.) Amendment 1.2 (WG2 N4770) Michel Suignard 2016-10-27",
+"L2/16-311R": "Revised proposal to encode Hanifi Rohingya (revised Anshuman Pandey 2017-01-25",
+"L2/16-312R": "Proposal to encode the Old Sogdian script (revised) Anshuman Pandey 2017-01-25",
+"L2/16-330": "Proposal to encode CHAKMA LETTER LHAA, DEPENDENT VOWEL SIGNS AA & EI for Chakma Bivuti Chakma, Andrew Glass 2016-11-04",
+"L2/16-371R2": "Revised proposal to encode the Sogdian script (revised) Anshuman Pandey 2017-01-25",
+"L2/16-381": "Additional repertoire for ISO/IEC 10646:2017 (5th ed.) Amendment 1.2 (WG2 N4778) Michel Suignard 2016-12-14",
+"L2/17-002R3": "Proposal to encode the Nyiakeng Puachue Hmong (revision 3; WG2 N4780R3) SEI / Michael Everson 2017-01-17",
+"L2/17-007": "Proposal to encode one historical Mongolian letter for Buryat Mongolian (WG2 N4781) Andrew West, et al 2017-01-17",
+"L2/17-012": "Additional Characters for Kharoṣṭhī Script Andrew Glass, Stefan Baums 2017-01-17",
+"L2/17-013": "Proposal to encode three uppercase Latin letters used in early Pinyin (WG2 N4782) Andrew West, et al 2017-01-17",
+"L2/17-033R": "Proposal to encode symbols for chess notation (revised; WG2 N4783) Michael Everson 2017-01-24",
+"L2/17-034R3": "Revised Proposal to Encode Heterodox Chess Symbols in the UCS (revised; WG2 N4784R) Garth Wallace, Michael Everson 2017-03-28",
+"L2/17-066R": "Proposal to encode the Marca Registrada sign (revised) Eduardo Marín Silva 2017-03-14",
+"L2/17-067R": "Proposal to encode the Wancho script (revised; WG2 N4787R) Michael Everson 2017-10-23",
+"L2/17-069": "Finalized proposal to encode Tamil fractions and symbols (with cover letter) Gov't of Tamil Nadu 2017-03-16",
+"L2/17-076R2": "Revised proposal for the encoding of an Egyptological YOD and Ugaritic characters Michel Suignard 2017-05-10",
+"L2/17-093": "Proposal to encode the NEWA LETTER VEDIC ANUSVARA Srinidhi A, Sridatta A 2017-04-10",
+"L2/17-106R": "Proposal to Encode Lao Characters for Pali (revised) Vinodh Rajan, et al 2017-07-19",
+"L2/17-112R": "A method for encoding Egyptian quadrats in Unicode (revised) Andrew Glass, et al 2017-05-16",
+"L2/17-117": "Proposal to encode a nasal character in Vedic Extensions (revised) Anshuman Pandey 2017-05-18",
+"L2/17-151": "Character submission: Hellschreiber pause symbol (revised) Marius Spix 2017-08-08",
+"L2/17-156": "Proposal on 3 China's UNCs for Chemical Terminology to URO+ (revised; WG2 N4830) China NB 2017-05-07",
+"L2/17-162": "Final proposal to encode Nandinagari in Unicode Anshuman Pandey 2017-05-09",
+"L2/17-191": "Proposal to encode NEPTUNE FORM TWO (revised) Eduardo Marín Silva 2017-08--2",
+"L2/17-201": "Proposal to encode the DOGRA VOWEL SIGN VOCALIC RR Srinidhi A, Sridatta A 2017-06-26",
+"L2/17-213R": "Proposal to encode the Prishthamatra for Nandinagari (revised) Srinidhi A, Sridatta A 2017-10-15",
+"L2/17-214R": "Proposal to encode the Prishthamatra for Sharada (revised) Srinidhi A, Sridatta A 2017-10-15",
+"L2/17-218": "Proposal to encode the TELUGU SIGN SIDDHAM (revised) Srinidhi A, Sridatta A 2017-08-11",
+"L2/17-226R2": "Proposal to encode the Elymaic script in Unicode (revised; supercedes L2/17-055 ) Anshuman Pandey 2017-10-24",
+"L2/17-238": "Proposal to add LATIN LETTER ANGLICANA W (WG2 N4838) Michael Everson 2017-07-26",
+"L2/17-242R": "Proposal to add CC license symbols (revision 3) Creative Commons / Jane Park 2018-07-10",
+"L2/17-276R": "Proposal to encode MALAYALAM LETTER VEDIC ANUSVARA (revised) Srinidhi A, Sridatta A 2017-12-08",
+"L2/17-285": "Comments on the encoding of Lao Letters Pali JHA and NYA Weizhe Zheng, Yihua Wang 2017-08-02",
+"L2/17-299": "Proposal to add two Sinological Latin letters (WG2 N4842) Michael Everson 2017-08-31",
+"L2/17-348": "Proposal to encode Ottoman Siyaq Numbers Anshuman Pandey 2017-09-29",
+"L2/17-360": "Tangut Character Additions and Glyph Corrections (replaces L2/17-313 and L2/17-314; WG2 N4896) Andrew West, et al 2017-10-06",
+"L2/17-369R": "Proposal to encode JIHVAMULIYA and UPADHMANIYA for Newa (revised) Srinidhi A, Sridatta A 2017-12-08",
+"L2/17-396": "Proposal to add two Urgently Needed Characters (WG2 N4831) Japan NB 2017-10-23",
+"L2/17-397": "Proposal on 2 TCA's UNCs for Chemical Terminology to URO+ (WG2 N4832) TCA 2017-10-23",
+"L2/17-428": "Proposal to encode the INVERTED CANDRABINDU for Sharada Anshuman Pandey 2017-12-14",
+"L2/17-440": "Proposal to encode the DOUBLE COMMA for Newa Srinidhi A, Sridatta A 2017-12-31",
+"L2/18-016R": "Proposal to encode Dives Akuru (revised; replaces L2/17-417) Anshuman Pandey 2018-01-20",
+"L2/18-032": "Proposal to include Hindko alphabets Lateef Sagar Shaikh 2018-01-17",
+"L2/18-060": "Proposal to encode the CANDRABINDU for Sinhala Srinidhi A, Sridatta A 2018-02-05",
+"L2/18-094": "Proposal to encode additional Arabic script characters for Hausa Lorna Evans, Andy Warren-Rothlin 2018-04-26",
+"L2/18-143R2": "ESC Recommendations 2018Q2 (revised) ESC / Mark Davis, et al 2018-05-03",
+"L2/18-164R2": "Proposal to encode the Chorasmian script (revision 2) Anshuman Pandey 2018-07-25",
+"L2/18-174": "Hindko additions for Arabic Deborah Anderson, Roozbeh Pournader 2018-05-03",
+"L2/18-194": "Proposal to encode seven additional Tangut components (WG2 N4957) Andrew West 2018-06-04",
+"L2/18-221": "Additional repertoire for ISO/IEC 10646:2017 (6th ed.) CD Michel Suignard 2018-07-16",
+"L2/18-282R": "Proposal to encode ADLAM LETTER APOSTROPHE for ADLaM script (revised) Abdoulaye Barry, et al 2018-09-17",
+"L2/18-338R": "Proposal to encode LISU LETTER YHA (revised) Lorna Evans 2019-01-08",
+"L2/19-025": "Proposal to add characters from legacy computers and teletext (replaces L2/18-275) [see also version without attachments , mapping files , mapping spreadsheet ] Doug Ewell, Rebecca Bettencourt, et al 2019-01-08",
+"L2/19-051R": "Proposal for encoding the Yezidi script in the SMP (revised) Andrij Rovenchak, et al 2019-05-20",
+"L2/19-053": "Proposal to Encode Znamenny Musical Notation in Unicode Aleksandr Andreev, Nikita Simmons 2019-04-17",
+"L2/19-056": "Comments on L2/18-337 - Broaden the scope of what Unicode calls \"properties\" Michael Saboff 2019-01-15",
+"L2/19-075": "Proposal to add six phonetic characters for Scots (revised, WG2 N5036) Michael Everson 2019-05-07",
+"L2/19-076": "Proposal to encode three cross symbols (revised, WG2 N5037) Michael Everson 2019-05-07",
+"L2/19-091": "Proposal to encode a pair of Ascia symbols for Roman epigraphy (WG2 N5038) Andrew West, Michael Everson 2019-04-01",
+"L2/19-092": "Proposal to encode Latin Letter Reversed Half H (WG2 N5039) Andrew West, Michael Everson 2019-04-01",
+"L2/19-118": "Proposal to add Arabic letter JEEM WITH THREE DOTS ABOVE and JEEM WITH THREE DOTS BELOW Neil Patel, et al 2019-04-19",
+"L2/19-143": "Proposal to encode CHAKMA LETTER VAA for Pali Zachary Scheuren 2019-04-23",
+"L2/19-177R": "Proposal to encode Cantonese Bopomofo Characters (revised) Ben Yang, Eiso Chan 2019-05-02",
+"L2/19-235": "Response to L2/19-056 on broadening the scope of \"properties\" Mathias Bynens 2019-06-26",
+"L2/19-249R": "Working Draft for Proposed Update UTS #18, Unicode Regular Expressions (revised) Mark Davis, Andy Heninger 2019-07-25",
+"L2/19-250": "WG2 Consent Docket (meeting #68) Debbie Anderson, et al 2019-07-01",
+"L2/19-252": "Proposal to include Balti alphabet ARABIC LETTER GRAF Lateef Sagar Shaikh 2019-07-02",
+"L2/19-258R": "The baybayin \"ra\", its origins and a plea for its formal recognition (revised) Fredrick R. Brennan 2019-07-18",
+"L2/19-262": "Properties that Apply to Sequences Asmus Freytag 2019-07-12",
+"L2/19-264": "Proposal to encode the Abbreviation Sign for Takri Srinidhi A, Sridatta A 2019-07-15",
+"L2/19-288R": "Proposal to add a character used in printed Glagolitic works (revised) Zoran Vukojević 2019-09-09",
+"L2/19-306": "Arabic additions for Quranic orthographies Roozbeh Pournader, Deborah Anderson 2019-09-29",
+"L2/19-313": "Proposal to encode an Arabic qaf with dot below Marijn van Putten, Roozbeh Pournader 2019-09-29",
+"L2/19-318": "Proposal to encode two Balinese punctuation marks Ben Yang, Aditya Bayu Perdana 2019-09-27",
+"L2/19-330": "Proposal for encoding the Toto script Deborah Anderson 2019-10-03",
+"L2/19-339": "Proposal to encode Bosnian Arabic characters Denis Moyogo Jacquerye 2020-05-13",
+"L2/19-340": "Proposal to encode Javanese and Sundanese Arabic characters Denis Moyogo Jacquerye 2020-05-13",
+"L2/19-381": "Proposal to Encode Missing Japanese Kana Abraham Gross 2019-11-21",
+"L2/19-402": "Proposal to Encode 6 Characters in the Brahmi Block Vinodh Rajan, Shriramana Sharma 2019-12-18",
+"L2/20-019": "Proposal to encode COMBINING DOT BELOW LEFT for Syriac Ben Yang, et al 2020-01-08",
+"L2/20-042": "Proposal to encode yet two more Arabic honorifics Roozbeh Pournader, et al 2020-01-10",
+"L2/20-057": "Proposal to add Mongolian Free Variation Selector Four Liang Hai 2020-01-24",
+"L2/20-074R": "Proposal to add four characters to the U-source ideographs William T. Nelson 2020-03-04",
+"L2/20-081": "Proposal to encode an Arabic honorific used in Christian texts Roozbeh Pournader, Lorna Evans 2020-03-16",
+"L2/20-084R": "Revised Proposal to Encode Telugu Letter Nakaara Pollu Vinodh Rajan, et al 2020-03-18",
+"L2/20-085": "Revised Proposal to Encode Telugu Sign Nukta Vinodh Rajan, et al 2020-03-18",
+"L2/20-089": "Proposal to Encode Characters from Indonesian Orthography of Quran M. Mahali Syarifuddin 2020-04-30",
+"L2/20-115R": "Unicode request for additional phonetic click letters (revised) Kirk Miller, Bonny Sands 2020-07-20",
+"L2/20-116R": "Expansion of the extIPA and VoQS (revised) Kirk Miller, Martin Ball 2020-07-20",
+"L2/20-119": "Proposal to Encode Two Letters in Telugu Vinodh Rajan 2020-04-20",
+"L2/20-151": "Proposal to encode the KAITHI VOWEL SIGN VOCALIC R Srinidhi A, Sridatta A 2020-06-24",
+"L2/20-159": "Proposal to encode two accidentals for Iranian classical music Roozbeh Pournader 2020-07-07",
+"L2/20-182": "Unicode request for Harrington diacritic Kirk Miller, Timothy Henry-Rodriguez 2020-07-20",
+"L2/20-188R2": "Proposal for encoding the Todhri script in the SMP (revised WG2 N5139R2) SEI / Michael Everson 2021-01-11",
+"L2/20-191": "Final proposal to encode Old Uyghur Anshuman Pandey 2020-12-22",
+"L2/20-209R": "Final Proposal to Encode Taiwanese Kana (revised) Fredrick R. Brennan 2021-01-04",
+"L2/20-228R": "Proposal to encode Kannada sign Nakaara Pollu (revised) Srinidhi A, Sridatta A 2021-01-07",
+"L2/20-252R": "Unicode request for IPA modifier-letters (a), pulmonic (revised) Kirk Miller, Michael Ashby 2021-01-02",
+"L2/20-253R": "Unicode request for IPA modifier letters (b), non-pulmonic (revised) Kirk Miller, Michael Ashby 2021-01-02",
+"L2/20-255": "Proposal to encode 16 additional characters to the Unified Canadian Aboriginal Syllabics Kevin King 2020-09-30",
+"L2/20-258": "Proposal to encode additional signs for the Tai Ahom script Stephen Morey 2020-10-01",
+"L2/20-261": "Proposal to add the currency sign for the KYRGYZ SOM Nat'l Bank of Kyrgyz Rep. 2020-10-01",
+"L2/20-272": "Amended proposal to encode the Tagalog pamudpod Fredrick R. Brennan 2020-10-04",
+"L2/20-284R": "Proposal to encode Kawi (revised) Aditya Bayu Perdana, Ilham Nurwansah 2020-12-22",
+"L2/21-027": "Proposal to add the Tangsa Script in the SMP (revised) Stephen Morey 2021-01-29",
+"L2/21-031R": "Proposal to Encode the Nag Mundari Script (revised) Lawrence Wolf-Sonkin, Biswajit Mandal 2021-04-24",
+"L2/21-036": "Proposal to add the OBLIQUE HYPHEN (WG2 N5152) Michael Everson 2021-01-14",
+"L2/21-037": "Modern Gurage Orthography Additions to Ethiopic Script Fekeda Menuta, et al 2021-01-12",
+"L2/21-039": "Proposal to include the letter 'Old Polish O' Daniel Bunčić 2021-01-12",
+"L2/21-058": "Unicode request for Kaktovik numerals (revised) Kirk Miller, et al 2021-04-30",
+"L2/21-093": "Proposal to Encode Lao Yamakkan Vinodh Rajan, Jayasāro Bhikkhu 2021-04-23",
+"L2/21-102": "Proposal for representing the Devanagari 'bhale mīṇḍu' Anshuman Pandey 2021-07-28",
+"L2/21-103": "Proposal to encode the Khojki letter QA Anshuman Pandey 2021-05-26",
+"L2/21-104": "Proposal to encode the Khojki letter SHORT I Anshuman Pandey 2021-06-15",
+"L2/21-107": "Unicode request for Cyrillic modifier letters Kirk Miller 2021-06-15",
+"L2/21-110": "Proposal to encode the Khojki vowel sign VOCALIC R Anshuman Pandey 2021-06-15",
+"L2/21-114": "Proposal to Encode Kannada Sign Combining Anusvara Above Right Shashank Shenoy Basty 2021-06-29",
+"L2/21-133": "Proposal to encode Quranic marks used in Turkey Lateef Sagar Shaikh 2021-07-20",
+"L2/21-142": "Addendum to L2/21-107, Cyrillic modifier letters Kirk Miller 2021-07-26",
+"L2/21-144": "Proposal for New Character - Nine Pointed White Star (revised; replaces L2/17-237) Adib Behjat, Joop Kiefte 2021-10-04",
+"L2/21-156": "Unicode request for legacy Malayalam Kirk Miller, Neil Rees 2021-09-07",
+"L2/21-157R": "Proposal to encode the Sunuwar script in Unicode (revised) Anshuman Pandey 2021-12-21",
+"L2/21-173": "CJK & Unihan Group Recommendations for UTC #169 Meeting (revised) Ken Lunde 2021-10-09",
+"L2/21-224": "Unicode request for dwarf-planet symbols Kirk Miller 2021-10-28",
+"L2/21-229": "Exploratory document on a problematic casing pair used by some African orthographies Eduardo Marín Silva 2021-11-16",
+"L2/21-231": "On the 1978 version of the African Reference Alphabet Eduardo Marín Silva 2021-11-16",
+"L2/21-234": "Proposal to add characters from Smalltalk [see also version without attachments , sources spreadsheet , mappings Zip file ] Rebecca Bettencourt, Doug Ewell, et al 2021-12-21",
+"L2/21-235": "Proposal to add further characters from legacy computers and teletext [see also version without attachments , sources spreadsheet , mappings Zip file ] (revised) Rebecca Bettencourt, Doug Ewell, et al 2022-01-26",
+"L2/21-247": "Feedback on African Reference Alphabet (L2/21-231) Denis Jacquerye 2021-12-22",
+"L2/22-005": "Unicode request for Lot of Fortune and eclipse symbols Kirk Miller 2022-01-04",
+"L2/22-006": "Proposal to encode ARCHAIC SHRII in Kannada and Telugu Srinidhi A, Sridatta A 2022-01-04",
+"L2/22-010": "Addendum II to L2/21-107, Cyrillic modifier letters Kirk Miller 2022-01-10",
+"L2/22-031": "Updated proposal to encode the Tulu-Tigalari script in Unicode (replaces L2/21-210) Vaishnavi Murthy Yerkadithaya, Vinodh Rajan 2022-01-18",
+"L2/22-043R": "Proposal to Encode Kirat Rai script (revised) Biswajit Mandal, Lorna Evans 2022-04-20",
+"L2/22-045": "Proposal to add capital rams horn Denis Moyogo Jacquerye 2022-02-23",
+"L2/22-046": "Proposal to encode numerals for Eastern Pwo Karen and Pa'O Ben Mitchell 2022-02-23",
+"L2/22-047": "Proposal to encode Arabic Combining Alef Overlay used in Quran published in Libya Lateef Sagar Shaikh 2022-02-23",
+"L2/22-048": "Consideration of the encoding of Garay with updated user feedback Andrij Rovenchak, et al 2022-02-23",
+"L2/22-059": "Proposal to Encode Three Balinese Punctuation Marks Rikza F. Sh., Aditya Bayu Perdana 2022-03-16",
+"L2/22-113": "Unicode request for two BMP Latin characters (revised) Kirk Miller 2022-06-14",
+"L2/22-113R": "Unicode request for two BMP Latin characters (revised) Kirk Miller 2022-06-14",
+"L2/22-116": "Proposal to Encode Four Pegon Characters Rikza F. Sh. 2022-06-22",
+"L2/22-119": "Proposal to encode Cyrillic letter Khanty Tje Nikita Manulov 2022-06-22",
+"L2/22-151R": "Proposal to encode the Ol Onal script (revised) Biswajit Mandal, Jan Kučera 2022-10-31",
+"L2/22-236": "Proposal to encode KAWI SIGN NUKTA Febri Muhammad Nasrullah 2022-10-17",
+"L2/22-260": "Proposal to encode three characters in Tulu-Tigalari Srinidhi A, Sridatta A 2022-10-25",
+"L2/22-281R": "Proposal to Encode Two Quranic Arabic Characters (Replaces L2/22-153) (revised) Rikza F. Sh. 2023-01-05",
+"L2/22-289R": "Final Proposal to encode the Tai Yo Script (replaces L2/22-208) (revised) Viet Khoi Nguyen, et al 2023-01-09",
+"L2/23-019": "Revised proposal to encode Sidetic in Unicode Anshuman Pandey 2023-01-06",
+"L2/23-024": "Proposal to encode Tolong Siki Anshuman Pandey 2023-01-11",
+"L2/23-065": "Proposal to encode a blank character for Khitan Small Script Andrew West 2023-03-20",
+"L2/23-103": "Proposal for ARABIC BIBLICAL END OF VERSE Lorna Priest Evans 2023-07-10",
+"L2/23-106": "Proposal to provisionally assign or accept 603 urgently-needed ideographs Ken Lunde 2023-04-20",
+"L2/23-114R": "Proposal to encode 622 urgently needed ideographs in UCS (revised) (WG2 N5214R2) Ken Lunde 2023-07-05",
+"L2/23-121": "Proposal to encode Arabic Letter Thin Noon Khaled Hosny, Mostafa Jbire 2023-05-17",
+"L2/23-122": "Proposal to Encode Kashmiri Sharada Characters Vinodh Rajan 2023-05-17",
+"L2/23-135": "Revised proposal to add two characters for Middle English (WG2 N5225) Michael Everson, Andrew West 2023-06-14",
+"L2/23-164": "Recommendations to UTC #176 July 2023 on Script Proposals Deborah Anderson, et al 2023-07-21",
+"L2/23-181": "Encoding proposal for an extended Egyptian Hieroglyphs repertoire (WG2 N5240) ( Sign Database [pdf 38MB]) (revised) Michel Suignard 2023-12-29",
+"L2/23-185": "Encoding proposal for two arrow symbols used in Egyptology Michel Suignard 2023-07-27",
+"L2/23-188": "Unicode request for compound tone diacritics Kirk Miller 2023-09-21",
+"L2/23-191": "Proposal to Encode 3 Additional Latin Characters for Wakashan and Salishan Languages to the Unicode Standard Robyn Humchitt, Denis Jacquerye, Kevin King 2023-07-17",
+"L2/23-206": "Unicode request for Harrington diacritics (revised) Yoram Meroz, et al 2023-11-06",
+"L2/23-207": "Unicode request for historical asteroid symbols Gavin Jared Bala, Kirk Miller 2023-09-25",
+"L2/23-208": "Unicode request for compound tone diacritics II Kirk Miller 2023-09-25",
+"L2/23-218": "Proposal to encode Geomantic Figures George Pollard 2023-10-04",
+"L2/23-219": "Proposal to add two Latin pharyngeal voiced fricative characters Denis Moyogo Jacquerye 2023-10-04",
+"L2/23-236": "Emoji Subcommittee Report for UTC #177 (2023Q4) (revised) ESC / Jennifer Daniel 2023-11-02",
+"L2/23-238": "Recommendations to UTC #177 November 2023 on Script Proposals (revised) Deborah Anderson, et al 2023-11-01",
+"L2/23-246": "Proposal to encode 2 Tangut components and 28 Tangut ideographs (WG2 N5217R2) Andrew West 2023-10-18",
+"L2/23-247": "Proposal to encode 114 Tangut components (WG2 N5218R2) Andrew West 2023-10-18",
+"L2/23-248": "Proposal to encode Arabic Double Vertical Bar Below Lateef Sagar Shaikh 2023-10-19",
+"L2/23-276": "Unicode request for Stein-Zimmermann quarter-tone accidentals Gavin Jared Bala, Kirk Miller 2023-11-20",
+"L2/23-277": "Unicode request for digits with slashes used in figured bass Gavin Jared Bala, Kirk Miller 2023-11-20",
+"L2/23-278R": "Unicode request for three musical symbols (revised) Gavin Jared Bala, Kirk Miller 2024-01-08",
+"L2/23-284": "Proposal to encode two small form CJK characters for Chinese Andrew West, Eiso Chan 2023-12-13",
+"L2/24-002": "Proposal to encode eight more Arabic honorifics Roozbeh Pournader, et al 2024-01-03",
+"L2/24-004R": "Proposal for encoding the Beria Erfe (Zaghawa) script in the SMP (revised) Siddick Adam Issa, et al 2024-02-22",
+"L2/24-008": "Comments on Public Review Issues (October 11, 2023 - January 8, 2024) Rick McGowan 2024-01-09",
+"L2/24-018": "Unicode request for one chess symbol Gavin Jared Bala, Kirk Miller 2024-01-04",
+"L2/24-020": "Unicode request for shatranj symbols Gavin Jared Bala, Kirk Miller 2024-01-08",
+"L2/24-046": "Proposal to encode ARABIC LETTER NOON WITH RING ABOVE Lorna Priest Evans 2024-02-20",
+"L2/24-048": "Review of Proposal to encode 114 Tangut components Andrew West 2024-02-21",
+"L2/24-050": "Unicode request for letters with palatal hook Kirk Miller 2024-04-01",
+"L2/24-051": "Unicode request for affricate ligatures Kirk Miller 2024-02-23",
+"L2/24-052R": "Unicode request for modifier pre-Kiel click letters (revised) Kirk Miller 2024-04-29",
+"L2/24-055": "Proposal to add Arabic letter for Swahili Denis Moyogo Jacquerye 2024-02-27",
+"L2/24-068": "Recommendations to UTC #179 April 2024 on Script Proposals Deborah Anderson, et al 2024-04-19",
+"L2/24-071R2": "Proposal to encode three stable extended Suzhou Numeral-like letters for Cantonese Music (revised) Eiso Chan 2024-06-04",
+"L2/24-077": "Proposal to encode twenty-five more Arabic honorifics Roozbeh Pournader, et al 2024-03-19",
+"L2/24-080": "Unicode request for IPA diacritics above and one below Kirk Miller 2024-04-01",
+"L2/24-081": "Unicode request for modifier capital S Kirk Miller 2024-03-19",
+"L2/24-105": "Unicode request for double caron Kirk Miller 2024-04-15",
+"L2/24-106": "Request to encode DOT ABOVE characters for the ORIYA/ODIA script (revised) Lorna Priest Evans 2024-04-25",
+"L2/24-107": "Revised Proposal to encode three Armenian superscript characters Hossep Dolatian 2024-04-16",
+"L2/24-130R": "Unicode request for modifier voiceless implosive letters (revised) Kirk Miller 2024-06-21",
+"L2/24-131": "Proposal to encode Arabic Crown Letters Manish Goregaokar, et al 2024-05-28",
+"L2/24-134R": "Proposal to Encode a Pridnestrovian Ruble Sign (revised) Ivan Adrianov 2024-08-19",
+"L2/24-138": "Recommendations from WG 2 meeting 71 (WG2 N5254) WG2 2024-06-18",
+"L2/24-139": "Proposal to Encode the Jurchen Script (WG2 N5261R) Andrew West, et al 2024-06-18",
+"L2/24-140": "Proposal to Encode Radicals for the Jurchen Script (WG2 N5278) Andrew West, et al 2024-06-18",
+"L2/24-144": "Unicode request for modifier letters with palatal hook Kirk Miller 2024-06-20",
+"L2/24-145R": "Unicode request for modifier psi and omega (revised) Kirk Miller 2024-06-24",
+"L2/24-146": "Unicode request for Greek letters with palatal hook Kirk Miller 2024-06-20",
+"L2/24-147": "Modifier Sinological extensions to the IPA Kirk Miller 2024-06-20",
+"L2/24-150": "Proposal for missing three Kana-Ligatures Gen Kojitani 2024-06-21",
+"L2/24-151": "Proposal for two geometric shapes for Japanese traditional calendars (revised) Gen Kojitani 2024-09-23",
+"L2/24-166": "Recommendations to UTC #180 July 2024 on Script Proposals Deborah Anderson, et al 2024-07-18",
+"L2/24-171": "Miscellaneous historical and para-IPA modifier letters Kirk Miller 2024-07-08",
+"L2/24-172": "Unicode request for 256th, 512th, and 1024th notes and rests Gavin Jared Bala, Kirk Miller 2024-07-08",
+"L2/24-174": "Unicode request for Turkish and Arabic accidentals Gavin Jared Bala, Kirk Miller 2024-07-08",
+"L2/24-178": "PROPOSAL TO ENCODE SIXTEEN QURANIC ARABIC CHARACTERS Rikza F. Sh. 2024-07-08",
+"L2/24-210R": "Archaic Cuneiform Numerals (revised) Robin Leroy, et al 2024-10-23",
+"L2/24-213": "Unicode request for additional tremoli Gavin Jared Bala, Kirk Miller 2024-10-01",
+"L2/24-214": "Unicode request for triple and quadruple flat Gavin Jared Bala, Kirk Miller 2024-10-01",
+"L2/24-219": "Unicode request for subscript w y z and ɣ Kirk Miller 2024-10-21",
+"L2/24-226R": "Emoji Standard & Research Working Group Report for UTC #181 (2024Q4) (revised) ESR / Jennifer Daniel 2024-11-06",
+"L2/24-228": "Recommendations to UTC #181 (November 2024) on Script Proposals Jan Kučera, et al 2024-11-04",
+"L2/24-231": "Unicode request for modifier small capital P Kirk Miller, Denis Moyogo Jacquerye 2024-10-21",
+"L2/24-232": "Unicode request for compound tone diacritics Kirk Miller 2024-10-21",
+"L2/24-234": "Unicode request for barred letters (revised) Kirk Miller, et al 2024-11-25",
+"L2/24-236": "Proposal to encode two Tangut ideographs (WG2 N5286) Eiso Chan, et al 2024-10-21",
+"L2/24-237": "Capital r with long leg (revised) Denis Moyogo Jacquerye 2024-10-30",
+"L2/24-243": "Changing Latin script r glyphs and adding their capital characters Denis Moyogo Jacquerye 2024-10-28",
+"L2/24-270": "Twelve cuneiform tenû numerals Robin Leroy 2024-12-17",
+"L2/24-272": "Unicode request for lezh with curl Kirk Miller 2024-12-23",
+"L2/24-273": "Unicode request for Initial Teaching Alphabet Kirk Miller 2024-12-23",
+"L2/24-277": "Fifth Revised Proposal to encode characters for the English Phonotypic Alphabet (EPA) in the UCS Karl Pentzlin 2024-12-29",
+"L2/24-279": "Proposal to Encode One Kana Ligature CheonHyeong Sim 2024-12-31",
+"L2/25-015": "Unicode request for additional Baroque ornament Gavin Jared Bala, Kirk Miller 2025-01-06",
+"L2/25-016": "Unicode request for letters of the RFE phonetic alphabet Kirk Miller 2025-01-06",
+"L2/25-017": "Unicode request for miscellaneous musical symbols Gavin Jared Bala, Kirk Miller 2025-01-06",
+"L2/25-018": "Unicode request for musical bowing symbols Gavin Jared Bala, Kirk Miller 2025-01-06",
+"L2/25-022": "Proposal to encode the Devanagari letter Sindhi DDDA in Unicode Biswajit Mandal 2025-01-06",
+"L2/25-036": "Proposal to Encode One Small Kana Letter CheonHyeong Sim 2025-01-15",
+"L2/25-061": "Unicode request for compound stress mark Kirk Miller 2025-02-27",
+"L2/25-062": "Proposal to encode 5 historic mathematical operators Uwe Mayer, et al 2025-02-27",
+"L2/25-064": "Response to feedback on the buzz roll in L2/24-213 Gavin Jared Bala, Kirk Miller 2025-02-27",
+"L2/25-065": "Response to feedback on the accidentals in L2/24-174 Gavin Jared Bala, Kirk Miller 2025-02-27",
+"L2/25-071": "Comments on Public Review Issues (Jan 3, 2025 - April 2, 2025) Michelle Perham 2025-04-02",
+"L2/25-075": "Proposal to add the currency sign for the SAUDI RIYAL to the UCS Saudi Arabian Central Bank 2025-03-11",
+"L2/25-090": "CJK & Unihan Working Group Recommendations for UTC Meeting #183 CJK / Ken Lunde 2025-04-11",
+"L2/25-091R": "Recommendations to UTC #183 (April 2025) on Script Proposals (revised) SEW / Jan Kučera, et al 2025-04-17",
+"L2/25-122R": "Proposal to encode Maldivian Rufiyaa Sign in the Unicode Standard (revised) Naail Abdul Rahman, Abdulla Shafeeu 2025-04-09",
+"L2/25-151R": "Proposal on two alternate Katakana letters (revised) Eiso Chan 2025-05-23",
+"L2/25-159": "Proposal for the Inclusion of the UAE Dirham Currency Sign in ISO/IEC 10646 in the Currency Symbol Block (WG2 N5322) Central Bank of the U.A.E. 2025-06-10",
+"L2/25-164": "Technical update on Proposal to encode Jurchen Small Script characters Viacheslav Zaytsev, Andrew West 2025-06-11",
+"L2/25-165": "Proposal to encode one newly-identified Tangut ideograph Andrew West 2025-06-11",
+"L2/25-175": "Adding dagesh ḥazaq to Hebrew Ben Denckla 2025-07-14",
+"L2/25-232R": "Recommendations to UTC #185 (October 2025) on Script Proposals (revised) SEW / Jan Kučera, et al 2025-10-24"
+}
+}

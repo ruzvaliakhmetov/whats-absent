@@ -27,8 +27,29 @@ function notoFamily(repo) {
   return fam;
 }
 
+// Proposal documents: data.json lists each set of documents once ("docs.sets") and every block
+// has runs [first, last, set] of characters citing that set ("p"). Made by scripts/fetch_proposals.py.
+function docURL(d) {
+  return d.startsWith("L2/")
+    ? `https://www.unicode.org/cgi-bin/GetMatchingDocs.pl?${d}`
+    : `https://www.unicode.org/cgi-bin/GetMatchingWG2Docs.pl?${d}`;
+}
+const esc = (t) => t.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+function docsHTML(set) {
+  if (set == null) return "";
+  const docs = DATA.docs.sets[set];
+  const shown = docs.slice(0, 4).map((d) => {
+    const t = DATA.docs.titles[d];
+    return `<a href="${docURL(d)}" target="_blank" rel="noopener"${t ? ` title="${esc(t)}"` : ""}>${d.startsWith("N") ? "WG2 " + d : d}</a>`;
+  });
+  const more = docs.length > 4 ? ` +${docs.length - 4}` : "";
+  return `<div class="docs">${docs.length > 1 ? "Proposals" : "Proposal"}: ${shown.join(", ")}${more}</div>`;
+}
+
 function charsOf(b) {
   const out = [];
+  const pr = b.p || [];
+  let pi = 0;
   for (const [a, z] of b.runs) {
     for (let c = a; c <= z; c++) {
       const o = b.ov[c] || {};
@@ -37,6 +58,7 @@ function charsOf(b) {
         n: b.names[c] || (b.prefix + hex(c)),
         g: o.g ?? b.d.g, s: o.s ?? b.d.s, a: o.a ?? b.d.a,
         r: "r" in o ? o.r : b.d.r, u: o.u ?? b.d.u, o: "o" in o ? o.o : b.d.o, f: o.f ?? b.d.f ?? 0,
+        p: (() => { while (pi < pr.length && pr[pi][1] < c) pi++; return pi < pr.length && pr[pi][0] <= c ? pr[pi][2] : null; })(),
       });
     }
   }
@@ -77,6 +99,7 @@ function cellHTML(ch) {
   <div class="meta-c">
     <div class="cp"><button title="Copy character" data-copy="${ch.c}">U+${hex(ch.c)}</button>${isNew ? `<span class="pill">NEW ${NEWV}</span>` : ""}</div>
     <div class="name">${ch.n}</div>
+    ${docsHTML(ch.p)}
   </div>
   <div class="pv"><span class="cap">GNU Unifont</span>${uni}<span class="lbl">&nbsp;</span></div>
   <div class="pv"><span class="cap">Noto</span><div class="g noto" style="${notoFont}">${txt}</div>${repoLink(ch.r, ch.s)}</div>
@@ -86,7 +109,7 @@ function cellHTML(ch) {
 
 /* ---------- lazy chunk rendering ---------- */
 function estimateHeight(n) {
-  return n * (window.innerWidth <= 900 ? 168 : 110);
+  return n * (window.innerWidth <= 900 ? 200 : 120);
 }
 
 const io = new IntersectionObserver((entries) => {
@@ -137,7 +160,22 @@ function blockHeader(b) {
     <span class="range">U+${hex(b.start)}–U+${hex(b.end)}</span>
     ${b.new ? `<span class="pill">${fmt(b.new)} new in ${NEWV}</span>` : ""}
     <div class="meta"><b>${fmt(b.missing)}</b> missing of ${fmt(b.assigned)} assigned · Noto covers ${pctTxt}% · ${repoTxt}</div>
+    <div class="meta charts">${chartLinks(b)}</div>
   </div>`;
+}
+
+// Unicode code charts: the whole block, and per version the delta chart with only the characters
+// that version added (Unicode-17.0/U170-1E6C0.pdf). There is no delta chart for 1.1.
+const CHARTS = "https://www.unicode.org/charts/PDF/";
+function chartLinks(b) {
+  const start = hex(b.start);
+  const ages = new Set([b.d.a]);
+  for (const o of Object.values(b.ov)) if (o.a) ages.add(o.a);
+  const vers = [...ages].filter((v) => v && v !== "1.1").sort((x, y) => parseFloat(x) - parseFloat(y));
+  const ext = `target="_blank" rel="noopener"`;
+  const delta = vers.map((v) =>
+    `<a href="${CHARTS}Unicode-${v}/U${v.replace(".", "")}-${start}.pdf" ${ext} title="Characters added to this block in Unicode ${v}">${v}</a>`);
+  return `Unicode charts: <a href="${CHARTS}U${start}.pdf" ${ext}>whole block</a>${delta.length ? " · added in " + delta.join(", ") : ""}`;
 }
 
 function build() {
@@ -308,4 +346,4 @@ window.addEventListener("resize", () => {
   }), 150);
 });
 
-fetch("data.json?v=1701d4c2").then((r) => r.json()).then((d) => { DATA = d; build(); });
+fetch("data.json?v=b8b09d6a").then((r) => r.json()).then((d) => { DATA = d; build(); });

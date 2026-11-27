@@ -410,6 +410,7 @@ def main():
                 info["font"] = url
         repos[r] = info
 
+    props = proposals_for(out_blocks)
     data = {
         "unicode": UNICODE_VERSION,
         "unifont": UNIFONT_VERSION,
@@ -419,6 +420,7 @@ def main():
         "repos": repos,
         "others": {k: {kk: v[kk] for kk in ("name", "home", "version", "release", "released", "source", "original", "sha256", "base") if kk in v}
                    for k, v in others_meta.items()},
+        "docs": props,
         "blocks": out_blocks,
     }
     # Keep the previous build date when nothing else changed, so a weekly rebuild
@@ -497,6 +499,46 @@ USE = {
     "unihieroglyphica": "Egyptian hieroglyph blocks.",
     "alari": "The Jurchen blocks.",
 }
+
+
+def proposals_for(blocks):
+    """Attach the proposal documents of data/proposals.json (made by fetch_proposals.py) to the blocks.
+
+    Returns {"titles": {doc: title}, "sets": [[doc, ...], ...]}; each block gets "p": runs
+    [first, last, set index] of consecutive characters citing the same documents.
+    """
+    path = ROOT / "data" / "proposals.json"
+    if not path.exists():
+        for b in blocks:
+            b["p"] = []
+        return {"titles": {}, "sets": []}
+    pr = json.loads(path.read_text())
+    items_at = {}
+    for a, z, ks in pr["runs"]:
+        for c in range(a, z + 1):
+            items_at[c] = ks
+    sets, index, titles = [], {}, {}
+    for b in blocks:
+        runs = []
+        for a, z in b["runs"]:
+            for c in range(a, z + 1):
+                docs = []
+                for item in items_at.get(c, []):
+                    docs += [d for d in pr["items"][item]["docs"] if d not in docs]
+                if not docs:
+                    continue
+                key = tuple(docs)
+                if key not in index:
+                    index[key] = len(sets)
+                    sets.append(docs)
+                    titles.update({d: pr["titles"][d] for d in docs if d in pr["titles"]})
+                i = index[key]
+                if runs and runs[-1][2] == i and runs[-1][1] == c - 1:
+                    runs[-1][1] = c
+                else:
+                    runs.append([c, c, i])
+        b["p"] = runs
+    return {"titles": titles, "sets": sets}
 
 
 def write_licences_page(data):

@@ -118,6 +118,9 @@ section.block[hidden] { display: none; }
 .cp button { all: unset; cursor: pointer; }
 .cp button:hover { color: var(--accent); }
 .name { font-size: 12px; line-height: 1.35; color: var(--muted); overflow-wrap: anywhere; }
+.docs { margin-top: 4px; font-size: 12px; color: var(--muted); }
+.docs a, .bh .charts a { color: var(--accent); text-decoration: none; white-space: nowrap; }
+.docs a:hover, .bh .charts a:hover { text-decoration: underline; }
 
 .pv { display: grid; grid-template-rows: 72px auto; justify-items: center; align-items: center; gap: 4px; text-align: center; }
 .g { font-size: 56px; line-height: 1; white-space: nowrap; font-synthesis: none; }
